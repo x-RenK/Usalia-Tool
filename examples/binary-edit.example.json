@@ -1,0 +1,12 @@
+{
+  "source_sha256": "REPLACE_WITH_EXACT_SOURCE_SHA256",
+  "edits": [
+    {
+      "offset": "0x1c4600",
+      "expected_hex": "8272828182968285814800",
+      "text": "Salvar?",
+      "encoding": "ascii",
+      "nul_terminated": true
+    }
+  ]
+}

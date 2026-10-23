@@ -1,0 +1,59 @@
+{
+  "nx_root_entries": 229,
+  "nx_start_entries": 107,
+  "nltx_noop_byte_identical": true,
+  "speaker_atlas": {
+    "slot": 92,
+    "dimensions": [
+      512,
+      4096
+    ],
+    "noop_identical": true
+  },
+  "hd": {
+    "data_start": 3382080,
+    "table_offset": 3334016,
+    "sheet_count": 1346,
+    "palette_count": 1658,
+    "objects": 669
+  },
+  "hd_sample_sheets_decoded": true,
+  "font": {
+    "width": 4096,
+    "height": 4096,
+    "cell_width": 64,
+    "cell_height": 64,
+    "record_count": 914,
+    "record_offset": 64,
+    "record_size": 24,
+    "atlas_offset": 23060,
+    "size": 16800276
+  },
+  "fad_sample_sheets_decoded": [
+    0,
+    6,
+    26,
+    298,
+    364
+  ],
+  "exported_bank_fields": 2225,
+  "exported_story_candidates": 9208,
+  "empty_sheet_validated": true,
+  "pc_entries": 203,
+  "pc_imy_start_bytes": 115560064,
+  "pc_start_entries": 98,
+  "consolidated_ips_bytes": 18490,
+  "hd_intro_noop_byte_identical": true,
+  "narration_hd_ids_visually_checked": [
+    5002,
+    5003,
+    5004,
+    5005,
+    5006,
+    5007,
+    5017
+  ],
+  "public_synthetic_tests_passed": 15,
+  "gui_status": "Tkinter import OK; no graphical display test",
+  "platform_tested": "Linux local runtime; GitHub matrix configured but not yet run"
+}

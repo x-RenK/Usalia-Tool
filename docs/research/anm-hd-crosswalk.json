@@ -1,0 +1,3442 @@
+{
+  "source": "PT-BR v6 research baseline",
+  "indexing": "zero-based",
+  "method": "Legacy ANM resource IDs matched to START[96] HD object IDs. Equal IDs do not prove all animation commands are interchangeable.",
+  "animations": [
+    {
+      "resource": "anm01.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5012,
+          "offset": 96,
+          "size": 46288,
+          "header_u16": [
+            5,
+            72,
+            1,
+            1,
+            101,
+            407
+          ],
+          "hd_object_index": 347
+        },
+        {
+          "index": 1,
+          "resource_id": 5008,
+          "offset": 46384,
+          "size": 36288,
+          "header_u16": [
+            13,
+            15,
+            1,
+            1,
+            26,
+            110
+          ],
+          "hd_object_index": 343
+        },
+        {
+          "index": 2,
+          "resource_id": 5101,
+          "offset": 82672,
+          "size": 34000,
+          "header_u16": [
+            4,
+            19,
+            1,
+            1,
+            61,
+            19
+          ],
+          "hd_object_index": 362
+        },
+        {
+          "index": 3,
+          "resource_id": 5103,
+          "offset": 116672,
+          "size": 16976,
+          "header_u16": [
+            1,
+            11,
+            1,
+            1,
+            15,
+            11
+          ],
+          "hd_object_index": 364
+        },
+        {
+          "index": 4,
+          "resource_id": 5109,
+          "offset": 133648,
+          "size": 8544,
+          "header_u16": [
+            1,
+            5,
+            1,
+            1,
+            9,
+            5
+          ],
+          "hd_object_index": 369
+        },
+        {
+          "index": 5,
+          "resource_id": 5110,
+          "offset": 142192,
+          "size": 4416,
+          "header_u16": [
+            1,
+            4,
+            1,
+            1,
+            8,
+            4
+          ],
+          "hd_object_index": 370
+        },
+        {
+          "index": 6,
+          "resource_id": 5111,
+          "offset": 146608,
+          "size": 16768,
+          "header_u16": [
+            1,
+            6,
+            1,
+            1,
+            8,
+            6
+          ],
+          "hd_object_index": 371
+        },
+        {
+          "index": 7,
+          "resource_id": 5202,
+          "offset": 163376,
+          "size": 8624,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            10,
+            7
+          ],
+          "hd_object_index": 374
+        },
+        {
+          "index": 8,
+          "resource_id": 5206,
+          "offset": 172000,
+          "size": 4416,
+          "header_u16": [
+            1,
+            4,
+            1,
+            1,
+            8,
+            4
+          ],
+          "hd_object_index": 378
+        },
+        {
+          "index": 9,
+          "resource_id": 5208,
+          "offset": 176416,
+          "size": 16768,
+          "header_u16": [
+            1,
+            6,
+            1,
+            1,
+            9,
+            6
+          ],
+          "hd_object_index": 379
+        },
+        {
+          "index": 10,
+          "resource_id": 5209,
+          "offset": 193184,
+          "size": 16896,
+          "header_u16": [
+            1,
+            8,
+            1,
+            1,
+            17,
+            8
+          ],
+          "hd_object_index": 380
+        },
+        {
+          "index": 11,
+          "resource_id": 5708,
+          "offset": 210080,
+          "size": 8960,
+          "header_u16": [
+            2,
+            6,
+            6,
+            1,
+            13,
+            6
+          ],
+          "hd_object_index": 403
+        },
+        {
+          "index": 12,
+          "resource_id": 5711,
+          "offset": 219040,
+          "size": 17248,
+          "header_u16": [
+            2,
+            9,
+            6,
+            1,
+            14,
+            9
+          ],
+          "hd_object_index": 406
+        },
+        {
+          "index": 13,
+          "resource_id": 5716,
+          "offset": 236288,
+          "size": 17376,
+          "header_u16": [
+            1,
+            11,
+            6,
+            1,
+            23,
+            11
+          ],
+          "hd_object_index": 411
+        }
+      ]
+    },
+    {
+      "resource": "anm02.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5012,
+          "offset": 64,
+          "size": 46288,
+          "header_u16": [
+            5,
+            72,
+            1,
+            1,
+            101,
+            407
+          ],
+          "hd_object_index": 347
+        },
+        {
+          "index": 1,
+          "resource_id": 5017,
+          "offset": 46352,
+          "size": 34464,
+          "header_u16": [
+            4,
+            4,
+            1,
+            1,
+            8,
+            44
+          ],
+          "hd_object_index": 352
+        },
+        {
+          "index": 2,
+          "resource_id": 5008,
+          "offset": 80816,
+          "size": 36288,
+          "header_u16": [
+            13,
+            15,
+            1,
+            1,
+            26,
+            110
+          ],
+          "hd_object_index": 343
+        },
+        {
+          "index": 3,
+          "resource_id": 5102,
+          "offset": 117104,
+          "size": 16896,
+          "header_u16": [
+            1,
+            9,
+            1,
+            1,
+            13,
+            9
+          ],
+          "hd_object_index": 363
+        },
+        {
+          "index": 4,
+          "resource_id": 5104,
+          "offset": 134000,
+          "size": 8608,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            9,
+            7
+          ],
+          "hd_object_index": 365
+        },
+        {
+          "index": 5,
+          "resource_id": 5105,
+          "offset": 142608,
+          "size": 8608,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            9,
+            7
+          ],
+          "hd_object_index": 366
+        },
+        {
+          "index": 6,
+          "resource_id": 5202,
+          "offset": 151216,
+          "size": 8624,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            10,
+            7
+          ],
+          "hd_object_index": 374
+        },
+        {
+          "index": 7,
+          "resource_id": 5301,
+          "offset": 159840,
+          "size": 4416,
+          "header_u16": [
+            1,
+            4,
+            1,
+            1,
+            9,
+            4
+          ],
+          "hd_object_index": 382
+        },
+        {
+          "index": 8,
+          "resource_id": 5307,
+          "offset": 164256,
+          "size": 16944,
+          "header_u16": [
+            1,
+            9,
+            1,
+            1,
+            18,
+            9
+          ],
+          "hd_object_index": 387
+        }
+      ]
+    },
+    {
+      "resource": "anm03.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5012,
+          "offset": 16,
+          "size": 46288,
+          "header_u16": [
+            5,
+            72,
+            1,
+            1,
+            101,
+            407
+          ],
+          "hd_object_index": 347
+        },
+        {
+          "index": 1,
+          "resource_id": 5008,
+          "offset": 46304,
+          "size": 36288,
+          "header_u16": [
+            13,
+            15,
+            1,
+            1,
+            26,
+            110
+          ],
+          "hd_object_index": 343
+        }
+      ]
+    },
+    {
+      "resource": "anm04.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5008,
+          "offset": 112,
+          "size": 36288,
+          "header_u16": [
+            13,
+            15,
+            1,
+            1,
+            26,
+            110
+          ],
+          "hd_object_index": 343
+        },
+        {
+          "index": 1,
+          "resource_id": 5102,
+          "offset": 36400,
+          "size": 16896,
+          "header_u16": [
+            1,
+            9,
+            1,
+            1,
+            13,
+            9
+          ],
+          "hd_object_index": 363
+        },
+        {
+          "index": 2,
+          "resource_id": 5107,
+          "offset": 53296,
+          "size": 8560,
+          "header_u16": [
+            1,
+            5,
+            1,
+            1,
+            10,
+            5
+          ],
+          "hd_object_index": 368
+        },
+        {
+          "index": 3,
+          "resource_id": 5201,
+          "offset": 61856,
+          "size": 16832,
+          "header_u16": [
+            1,
+            8,
+            1,
+            1,
+            9,
+            8
+          ],
+          "hd_object_index": 373
+        },
+        {
+          "index": 4,
+          "resource_id": 5202,
+          "offset": 78688,
+          "size": 8624,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            10,
+            7
+          ],
+          "hd_object_index": 374
+        },
+        {
+          "index": 5,
+          "resource_id": 5203,
+          "offset": 87312,
+          "size": 16816,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            11,
+            7
+          ],
+          "hd_object_index": 375
+        },
+        {
+          "index": 6,
+          "resource_id": 5301,
+          "offset": 104128,
+          "size": 4416,
+          "header_u16": [
+            1,
+            4,
+            1,
+            1,
+            9,
+            4
+          ],
+          "hd_object_index": 382
+        },
+        {
+          "index": 7,
+          "resource_id": 5701,
+          "offset": 108544,
+          "size": 17296,
+          "header_u16": [
+            1,
+            8,
+            6,
+            1,
+            21,
+            9
+          ],
+          "hd_object_index": 396
+        },
+        {
+          "index": 8,
+          "resource_id": 5703,
+          "offset": 125840,
+          "size": 8992,
+          "header_u16": [
+            1,
+            8,
+            6,
+            1,
+            10,
+            8
+          ],
+          "hd_object_index": 398
+        },
+        {
+          "index": 9,
+          "resource_id": 5705,
+          "offset": 134832,
+          "size": 8944,
+          "header_u16": [
+            1,
+            7,
+            6,
+            1,
+            9,
+            7
+          ],
+          "hd_object_index": 400
+        },
+        {
+          "index": 10,
+          "resource_id": 5707,
+          "offset": 143776,
+          "size": 18064,
+          "header_u16": [
+            4,
+            17,
+            6,
+            1,
+            47,
+            27
+          ],
+          "hd_object_index": 402
+        },
+        {
+          "index": 11,
+          "resource_id": 5709,
+          "offset": 161840,
+          "size": 9360,
+          "header_u16": [
+            3,
+            10,
+            6,
+            1,
+            33,
+            14
+          ],
+          "hd_object_index": 404
+        },
+        {
+          "index": 12,
+          "resource_id": 5711,
+          "offset": 171200,
+          "size": 17248,
+          "header_u16": [
+            2,
+            9,
+            6,
+            1,
+            14,
+            9
+          ],
+          "hd_object_index": 406
+        },
+        {
+          "index": 13,
+          "resource_id": 5715,
+          "offset": 188448,
+          "size": 8960,
+          "header_u16": [
+            2,
+            6,
+            6,
+            1,
+            14,
+            6
+          ],
+          "hd_object_index": 410
+        },
+        {
+          "index": 14,
+          "resource_id": 5801,
+          "offset": 197408,
+          "size": 8560,
+          "header_u16": [
+            1,
+            5,
+            1,
+            1,
+            10,
+            5
+          ],
+          "hd_object_index": 413
+        },
+        {
+          "index": 15,
+          "resource_id": 5802,
+          "offset": 205968,
+          "size": 33584,
+          "header_u16": [
+            8,
+            15,
+            1,
+            1,
+            24,
+            15
+          ],
+          "hd_object_index": 414
+        }
+      ]
+    },
+    {
+      "resource": "anm05.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5012,
+          "offset": 32,
+          "size": 46288,
+          "header_u16": [
+            5,
+            72,
+            1,
+            1,
+            101,
+            407
+          ],
+          "hd_object_index": 347
+        },
+        {
+          "index": 1,
+          "resource_id": 5008,
+          "offset": 46320,
+          "size": 36288,
+          "header_u16": [
+            13,
+            15,
+            1,
+            1,
+            26,
+            110
+          ],
+          "hd_object_index": 343
+        },
+        {
+          "index": 2,
+          "resource_id": 5106,
+          "offset": 82608,
+          "size": 16848,
+          "header_u16": [
+            1,
+            8,
+            1,
+            1,
+            11,
+            8
+          ],
+          "hd_object_index": 367
+        },
+        {
+          "index": 3,
+          "resource_id": 5202,
+          "offset": 99456,
+          "size": 8624,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            10,
+            7
+          ],
+          "hd_object_index": 374
+        }
+      ]
+    },
+    {
+      "resource": "anm06.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5012,
+          "offset": 80,
+          "size": 46288,
+          "header_u16": [
+            5,
+            72,
+            1,
+            1,
+            101,
+            407
+          ],
+          "hd_object_index": 347
+        },
+        {
+          "index": 1,
+          "resource_id": 5008,
+          "offset": 46368,
+          "size": 36288,
+          "header_u16": [
+            13,
+            15,
+            1,
+            1,
+            26,
+            110
+          ],
+          "hd_object_index": 343
+        },
+        {
+          "index": 2,
+          "resource_id": 5022,
+          "offset": 82656,
+          "size": 17392,
+          "header_u16": [
+            3,
+            11,
+            6,
+            1,
+            24,
+            11
+          ],
+          "hd_object_index": 357
+        },
+        {
+          "index": 3,
+          "resource_id": 5023,
+          "offset": 100048,
+          "size": 67120,
+          "header_u16": [
+            2,
+            10,
+            1,
+            1,
+            15,
+            12
+          ],
+          "hd_object_index": 358
+        },
+        {
+          "index": 4,
+          "resource_id": 5102,
+          "offset": 167168,
+          "size": 16896,
+          "header_u16": [
+            1,
+            9,
+            1,
+            1,
+            13,
+            9
+          ],
+          "hd_object_index": 363
+        },
+        {
+          "index": 5,
+          "resource_id": 5104,
+          "offset": 184064,
+          "size": 8608,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            9,
+            7
+          ],
+          "hd_object_index": 365
+        },
+        {
+          "index": 6,
+          "resource_id": 5201,
+          "offset": 192672,
+          "size": 16832,
+          "header_u16": [
+            1,
+            8,
+            1,
+            1,
+            9,
+            8
+          ],
+          "hd_object_index": 373
+        },
+        {
+          "index": 7,
+          "resource_id": 5202,
+          "offset": 209504,
+          "size": 8624,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            10,
+            7
+          ],
+          "hd_object_index": 374
+        },
+        {
+          "index": 8,
+          "resource_id": 5301,
+          "offset": 218128,
+          "size": 4416,
+          "header_u16": [
+            1,
+            4,
+            1,
+            1,
+            9,
+            4
+          ],
+          "hd_object_index": 382
+        },
+        {
+          "index": 9,
+          "resource_id": 5302,
+          "offset": 222544,
+          "size": 9376,
+          "header_u16": [
+            1,
+            14,
+            1,
+            1,
+            19,
+            28
+          ],
+          "hd_object_index": 383
+        },
+        {
+          "index": 10,
+          "resource_id": 5305,
+          "offset": 231920,
+          "size": 8656,
+          "header_u16": [
+            1,
+            8,
+            1,
+            1,
+            10,
+            8
+          ],
+          "hd_object_index": 386
+        }
+      ]
+    },
+    {
+      "resource": "anm07.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5008,
+          "offset": 16,
+          "size": 36288,
+          "header_u16": [
+            13,
+            15,
+            1,
+            1,
+            26,
+            110
+          ],
+          "hd_object_index": 343
+        }
+      ]
+    },
+    {
+      "resource": "anm08.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5003,
+          "offset": 48,
+          "size": 51840,
+          "header_u16": [
+            7,
+            7,
+            1,
+            2,
+            14,
+            76
+          ],
+          "hd_object_index": 338
+        },
+        {
+          "index": 1,
+          "resource_id": 5004,
+          "offset": 51888,
+          "size": 117776,
+          "header_u16": [
+            5,
+            218,
+            1,
+            2,
+            220,
+            1755
+          ],
+          "hd_object_index": 339
+        },
+        {
+          "index": 2,
+          "resource_id": 5013,
+          "offset": 169664,
+          "size": 15168,
+          "header_u16": [
+            7,
+            24,
+            1,
+            1,
+            1316,
+            75
+          ],
+          "hd_object_index": 348
+        },
+        {
+          "index": 3,
+          "resource_id": 5008,
+          "offset": 184832,
+          "size": 36288,
+          "header_u16": [
+            13,
+            15,
+            1,
+            1,
+            26,
+            110
+          ],
+          "hd_object_index": 343
+        },
+        {
+          "index": 4,
+          "resource_id": 3501,
+          "offset": 221120,
+          "size": 1280,
+          "header_u16": [
+            5,
+            1,
+            1,
+            1,
+            10,
+            1
+          ],
+          "hd_object_index": 317
+        },
+        {
+          "index": 5,
+          "resource_id": 5106,
+          "offset": 222400,
+          "size": 16848,
+          "header_u16": [
+            1,
+            8,
+            1,
+            1,
+            11,
+            8
+          ],
+          "hd_object_index": 367
+        },
+        {
+          "index": 6,
+          "resource_id": 5717,
+          "offset": 239248,
+          "size": 17248,
+          "header_u16": [
+            1,
+            10,
+            6,
+            1,
+            11,
+            10
+          ],
+          "hd_object_index": 412
+        }
+      ]
+    },
+    {
+      "resource": "anm09.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5009,
+          "offset": 64,
+          "size": 73056,
+          "header_u16": [
+            4,
+            78,
+            1,
+            1,
+            103,
+            189
+          ],
+          "hd_object_index": 344
+        },
+        {
+          "index": 1,
+          "resource_id": 5011,
+          "offset": 73120,
+          "size": 66832,
+          "header_u16": [
+            2,
+            5,
+            1,
+            1,
+            6,
+            5
+          ],
+          "hd_object_index": 346
+        },
+        {
+          "index": 2,
+          "resource_id": 5014,
+          "offset": 139952,
+          "size": 61296,
+          "header_u16": [
+            6,
+            175,
+            1,
+            1,
+            207,
+            1494
+          ],
+          "hd_object_index": 349
+        },
+        {
+          "index": 3,
+          "resource_id": 5008,
+          "offset": 201248,
+          "size": 36288,
+          "header_u16": [
+            13,
+            15,
+            1,
+            1,
+            26,
+            110
+          ],
+          "hd_object_index": 343
+        },
+        {
+          "index": 4,
+          "resource_id": 5104,
+          "offset": 237536,
+          "size": 8608,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            9,
+            7
+          ],
+          "hd_object_index": 365
+        },
+        {
+          "index": 5,
+          "resource_id": 5302,
+          "offset": 246144,
+          "size": 9376,
+          "header_u16": [
+            1,
+            14,
+            1,
+            1,
+            19,
+            28
+          ],
+          "hd_object_index": 383
+        },
+        {
+          "index": 6,
+          "resource_id": 5401,
+          "offset": 255520,
+          "size": 16944,
+          "header_u16": [
+            1,
+            10,
+            1,
+            1,
+            14,
+            10
+          ],
+          "hd_object_index": 390
+        },
+        {
+          "index": 7,
+          "resource_id": 5402,
+          "offset": 272464,
+          "size": 4416,
+          "header_u16": [
+            1,
+            4,
+            1,
+            1,
+            9,
+            4
+          ],
+          "hd_object_index": 391
+        },
+        {
+          "index": 8,
+          "resource_id": 5405,
+          "offset": 276880,
+          "size": 8608,
+          "header_u16": [
+            1,
+            6,
+            1,
+            1,
+            12,
+            6
+          ],
+          "hd_object_index": 394
+        }
+      ]
+    },
+    {
+      "resource": "anm10.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5005,
+          "offset": 64,
+          "size": 34352,
+          "header_u16": [
+            4,
+            4,
+            1,
+            1,
+            8,
+            40
+          ],
+          "hd_object_index": 340
+        },
+        {
+          "index": 1,
+          "resource_id": 5012,
+          "offset": 34416,
+          "size": 46288,
+          "header_u16": [
+            5,
+            72,
+            1,
+            1,
+            101,
+            407
+          ],
+          "hd_object_index": 347
+        },
+        {
+          "index": 2,
+          "resource_id": 5008,
+          "offset": 80704,
+          "size": 36288,
+          "header_u16": [
+            13,
+            15,
+            1,
+            1,
+            26,
+            110
+          ],
+          "hd_object_index": 343
+        },
+        {
+          "index": 3,
+          "resource_id": 5102,
+          "offset": 116992,
+          "size": 16896,
+          "header_u16": [
+            1,
+            9,
+            1,
+            1,
+            13,
+            9
+          ],
+          "hd_object_index": 363
+        },
+        {
+          "index": 4,
+          "resource_id": 5104,
+          "offset": 133888,
+          "size": 8608,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            9,
+            7
+          ],
+          "hd_object_index": 365
+        },
+        {
+          "index": 5,
+          "resource_id": 5112,
+          "offset": 142496,
+          "size": 8560,
+          "header_u16": [
+            1,
+            6,
+            1,
+            1,
+            7,
+            6
+          ],
+          "hd_object_index": 372
+        },
+        {
+          "index": 6,
+          "resource_id": 5201,
+          "offset": 151056,
+          "size": 16832,
+          "header_u16": [
+            1,
+            8,
+            1,
+            1,
+            9,
+            8
+          ],
+          "hd_object_index": 373
+        },
+        {
+          "index": 7,
+          "resource_id": 5210,
+          "offset": 167888,
+          "size": 16752,
+          "header_u16": [
+            1,
+            6,
+            1,
+            1,
+            7,
+            6
+          ],
+          "hd_object_index": 381
+        },
+        {
+          "index": 8,
+          "resource_id": 5305,
+          "offset": 184640,
+          "size": 8656,
+          "header_u16": [
+            1,
+            8,
+            1,
+            1,
+            10,
+            8
+          ],
+          "hd_object_index": 386
+        }
+      ]
+    },
+    {
+      "resource": "anm11.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5010,
+          "offset": 48,
+          "size": 66624,
+          "header_u16": [
+            5,
+            8,
+            2,
+            2,
+            12,
+            8
+          ],
+          "hd_object_index": 345
+        },
+        {
+          "index": 1,
+          "resource_id": 5012,
+          "offset": 66672,
+          "size": 46288,
+          "header_u16": [
+            5,
+            72,
+            1,
+            1,
+            101,
+            407
+          ],
+          "hd_object_index": 347
+        },
+        {
+          "index": 2,
+          "resource_id": 5013,
+          "offset": 112960,
+          "size": 15168,
+          "header_u16": [
+            7,
+            24,
+            1,
+            1,
+            1316,
+            75
+          ],
+          "hd_object_index": 348
+        },
+        {
+          "index": 3,
+          "resource_id": 5015,
+          "offset": 128128,
+          "size": 20208,
+          "header_u16": [
+            3,
+            31,
+            1,
+            1,
+            63,
+            96
+          ],
+          "hd_object_index": 350
+        },
+        {
+          "index": 4,
+          "resource_id": 5102,
+          "offset": 148336,
+          "size": 16896,
+          "header_u16": [
+            1,
+            9,
+            1,
+            1,
+            13,
+            9
+          ],
+          "hd_object_index": 363
+        },
+        {
+          "index": 5,
+          "resource_id": 5304,
+          "offset": 165232,
+          "size": 8608,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            9,
+            7
+          ],
+          "hd_object_index": 385
+        }
+      ]
+    },
+    {
+      "resource": "anm12.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5011,
+          "offset": 48,
+          "size": 66832,
+          "header_u16": [
+            2,
+            5,
+            1,
+            1,
+            6,
+            5
+          ],
+          "hd_object_index": 346
+        },
+        {
+          "index": 1,
+          "resource_id": 5014,
+          "offset": 66880,
+          "size": 61296,
+          "header_u16": [
+            6,
+            175,
+            1,
+            1,
+            207,
+            1494
+          ],
+          "hd_object_index": 349
+        },
+        {
+          "index": 2,
+          "resource_id": 5015,
+          "offset": 128176,
+          "size": 20208,
+          "header_u16": [
+            3,
+            31,
+            1,
+            1,
+            63,
+            96
+          ],
+          "hd_object_index": 350
+        },
+        {
+          "index": 3,
+          "resource_id": 5019,
+          "offset": 148384,
+          "size": 9152,
+          "header_u16": [
+            3,
+            3,
+            1,
+            1,
+            6,
+            25
+          ],
+          "hd_object_index": 354
+        },
+        {
+          "index": 4,
+          "resource_id": 5008,
+          "offset": 157536,
+          "size": 36288,
+          "header_u16": [
+            13,
+            15,
+            1,
+            1,
+            26,
+            110
+          ],
+          "hd_object_index": 343
+        },
+        {
+          "index": 5,
+          "resource_id": 5201,
+          "offset": 193824,
+          "size": 16832,
+          "header_u16": [
+            1,
+            8,
+            1,
+            1,
+            9,
+            8
+          ],
+          "hd_object_index": 373
+        },
+        {
+          "index": 6,
+          "resource_id": 5302,
+          "offset": 210656,
+          "size": 9376,
+          "header_u16": [
+            1,
+            14,
+            1,
+            1,
+            19,
+            28
+          ],
+          "hd_object_index": 383
+        }
+      ]
+    },
+    {
+      "resource": "anm13.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5011,
+          "offset": 80,
+          "size": 66832,
+          "header_u16": [
+            2,
+            5,
+            1,
+            1,
+            6,
+            5
+          ],
+          "hd_object_index": 346
+        },
+        {
+          "index": 1,
+          "resource_id": 5012,
+          "offset": 66912,
+          "size": 46288,
+          "header_u16": [
+            5,
+            72,
+            1,
+            1,
+            101,
+            407
+          ],
+          "hd_object_index": 347
+        },
+        {
+          "index": 2,
+          "resource_id": 5013,
+          "offset": 113200,
+          "size": 15168,
+          "header_u16": [
+            7,
+            24,
+            1,
+            1,
+            1316,
+            75
+          ],
+          "hd_object_index": 348
+        },
+        {
+          "index": 3,
+          "resource_id": 5008,
+          "offset": 128368,
+          "size": 36288,
+          "header_u16": [
+            13,
+            15,
+            1,
+            1,
+            26,
+            110
+          ],
+          "hd_object_index": 343
+        },
+        {
+          "index": 4,
+          "resource_id": 2560,
+          "offset": 164656,
+          "size": 33744,
+          "header_u16": [
+            7,
+            19,
+            1,
+            1,
+            27,
+            19
+          ],
+          "hd_object_index": 289
+        },
+        {
+          "index": 5,
+          "resource_id": 5202,
+          "offset": 198400,
+          "size": 8624,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            10,
+            7
+          ],
+          "hd_object_index": 374
+        },
+        {
+          "index": 6,
+          "resource_id": 5205,
+          "offset": 207024,
+          "size": 16848,
+          "header_u16": [
+            1,
+            8,
+            1,
+            1,
+            10,
+            8
+          ],
+          "hd_object_index": 377
+        },
+        {
+          "index": 7,
+          "resource_id": 5302,
+          "offset": 223872,
+          "size": 9376,
+          "header_u16": [
+            1,
+            14,
+            1,
+            1,
+            19,
+            28
+          ],
+          "hd_object_index": 383
+        },
+        {
+          "index": 8,
+          "resource_id": 5402,
+          "offset": 233248,
+          "size": 4416,
+          "header_u16": [
+            1,
+            4,
+            1,
+            1,
+            9,
+            4
+          ],
+          "hd_object_index": 391
+        },
+        {
+          "index": 9,
+          "resource_id": 5403,
+          "offset": 237664,
+          "size": 16896,
+          "header_u16": [
+            1,
+            9,
+            1,
+            1,
+            12,
+            9
+          ],
+          "hd_object_index": 392
+        },
+        {
+          "index": 10,
+          "resource_id": 5501,
+          "offset": 254560,
+          "size": 8496,
+          "header_u16": [
+            1,
+            4,
+            1,
+            1,
+            6,
+            4
+          ],
+          "hd_object_index": 395
+        }
+      ]
+    },
+    {
+      "resource": "anm14.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5006,
+          "offset": 112,
+          "size": 34704,
+          "header_u16": [
+            3,
+            3,
+            1,
+            1,
+            6,
+            53
+          ],
+          "hd_object_index": 341
+        },
+        {
+          "index": 1,
+          "resource_id": 5007,
+          "offset": 34816,
+          "size": 17824,
+          "header_u16": [
+            5,
+            5,
+            1,
+            1,
+            10,
+            36
+          ],
+          "hd_object_index": 342
+        },
+        {
+          "index": 2,
+          "resource_id": 5013,
+          "offset": 52640,
+          "size": 15168,
+          "header_u16": [
+            7,
+            24,
+            1,
+            1,
+            1316,
+            75
+          ],
+          "hd_object_index": 348
+        },
+        {
+          "index": 3,
+          "resource_id": 5014,
+          "offset": 67808,
+          "size": 61296,
+          "header_u16": [
+            6,
+            175,
+            1,
+            1,
+            207,
+            1494
+          ],
+          "hd_object_index": 349
+        },
+        {
+          "index": 4,
+          "resource_id": 3501,
+          "offset": 129104,
+          "size": 1280,
+          "header_u16": [
+            5,
+            1,
+            1,
+            1,
+            10,
+            1
+          ],
+          "hd_object_index": 317
+        },
+        {
+          "index": 5,
+          "resource_id": 5018,
+          "offset": 130384,
+          "size": 33616,
+          "header_u16": [
+            2,
+            10,
+            1,
+            1,
+            43,
+            10
+          ],
+          "hd_object_index": 353
+        },
+        {
+          "index": 6,
+          "resource_id": 5102,
+          "offset": 164000,
+          "size": 16896,
+          "header_u16": [
+            1,
+            9,
+            1,
+            1,
+            13,
+            9
+          ],
+          "hd_object_index": 363
+        },
+        {
+          "index": 7,
+          "resource_id": 5104,
+          "offset": 180896,
+          "size": 8608,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            9,
+            7
+          ],
+          "hd_object_index": 365
+        },
+        {
+          "index": 8,
+          "resource_id": 5110,
+          "offset": 189504,
+          "size": 4416,
+          "header_u16": [
+            1,
+            4,
+            1,
+            1,
+            8,
+            4
+          ],
+          "hd_object_index": 370
+        },
+        {
+          "index": 9,
+          "resource_id": 5202,
+          "offset": 193920,
+          "size": 8624,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            10,
+            7
+          ],
+          "hd_object_index": 374
+        },
+        {
+          "index": 10,
+          "resource_id": 5203,
+          "offset": 202544,
+          "size": 16816,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            11,
+            7
+          ],
+          "hd_object_index": 375
+        },
+        {
+          "index": 11,
+          "resource_id": 5301,
+          "offset": 219360,
+          "size": 4416,
+          "header_u16": [
+            1,
+            4,
+            1,
+            1,
+            9,
+            4
+          ],
+          "hd_object_index": 382
+        },
+        {
+          "index": 12,
+          "resource_id": 5302,
+          "offset": 223776,
+          "size": 9376,
+          "header_u16": [
+            1,
+            14,
+            1,
+            1,
+            19,
+            28
+          ],
+          "hd_object_index": 383
+        },
+        {
+          "index": 13,
+          "resource_id": 5308,
+          "offset": 233152,
+          "size": 8560,
+          "header_u16": [
+            1,
+            5,
+            1,
+            1,
+            10,
+            5
+          ],
+          "hd_object_index": 388
+        },
+        {
+          "index": 14,
+          "resource_id": 5390,
+          "offset": 241712,
+          "size": 17760,
+          "header_u16": [
+            16,
+            16,
+            1,
+            1,
+            86,
+            16
+          ],
+          "hd_object_index": 389
+        },
+        {
+          "index": 15,
+          "resource_id": 6001,
+          "offset": 259472,
+          "size": 16720,
+          "header_u16": [
+            3,
+            3,
+            1,
+            1,
+            6,
+            3
+          ],
+          "hd_object_index": 415
+        }
+      ]
+    },
+    {
+      "resource": "anm16.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5012,
+          "offset": 80,
+          "size": 46288,
+          "header_u16": [
+            5,
+            72,
+            1,
+            1,
+            101,
+            407
+          ],
+          "hd_object_index": 347
+        },
+        {
+          "index": 1,
+          "resource_id": 8001,
+          "offset": 46368,
+          "size": 66640,
+          "header_u16": [
+            4,
+            6,
+            1,
+            2,
+            8,
+            31
+          ],
+          "hd_object_index": 427
+        },
+        {
+          "index": 2,
+          "resource_id": 5101,
+          "offset": 113008,
+          "size": 34000,
+          "header_u16": [
+            4,
+            19,
+            1,
+            1,
+            61,
+            19
+          ],
+          "hd_object_index": 362
+        },
+        {
+          "index": 3,
+          "resource_id": 5103,
+          "offset": 147008,
+          "size": 16976,
+          "header_u16": [
+            1,
+            11,
+            1,
+            1,
+            15,
+            11
+          ],
+          "hd_object_index": 364
+        },
+        {
+          "index": 4,
+          "resource_id": 5109,
+          "offset": 163984,
+          "size": 8544,
+          "header_u16": [
+            1,
+            5,
+            1,
+            1,
+            9,
+            5
+          ],
+          "hd_object_index": 369
+        },
+        {
+          "index": 5,
+          "resource_id": 5110,
+          "offset": 172528,
+          "size": 4416,
+          "header_u16": [
+            1,
+            4,
+            1,
+            1,
+            8,
+            4
+          ],
+          "hd_object_index": 370
+        },
+        {
+          "index": 6,
+          "resource_id": 5111,
+          "offset": 176944,
+          "size": 16768,
+          "header_u16": [
+            1,
+            6,
+            1,
+            1,
+            8,
+            6
+          ],
+          "hd_object_index": 371
+        },
+        {
+          "index": 7,
+          "resource_id": 5202,
+          "offset": 193712,
+          "size": 8624,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            10,
+            7
+          ],
+          "hd_object_index": 374
+        },
+        {
+          "index": 8,
+          "resource_id": 5206,
+          "offset": 202336,
+          "size": 4416,
+          "header_u16": [
+            1,
+            4,
+            1,
+            1,
+            8,
+            4
+          ],
+          "hd_object_index": 378
+        },
+        {
+          "index": 9,
+          "resource_id": 5208,
+          "offset": 206752,
+          "size": 16768,
+          "header_u16": [
+            1,
+            6,
+            1,
+            1,
+            9,
+            6
+          ],
+          "hd_object_index": 379
+        },
+        {
+          "index": 10,
+          "resource_id": 5209,
+          "offset": 223520,
+          "size": 16896,
+          "header_u16": [
+            1,
+            8,
+            1,
+            1,
+            17,
+            8
+          ],
+          "hd_object_index": 380
+        },
+        {
+          "index": 11,
+          "resource_id": 5204,
+          "offset": 240416,
+          "size": 16944,
+          "header_u16": [
+            1,
+            10,
+            1,
+            1,
+            14,
+            10
+          ],
+          "hd_object_index": 376
+        }
+      ]
+    },
+    {
+      "resource": "anm17.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5012,
+          "offset": 16,
+          "size": 46288,
+          "header_u16": [
+            5,
+            72,
+            1,
+            1,
+            101,
+            407
+          ],
+          "hd_object_index": 347
+        },
+        {
+          "index": 1,
+          "resource_id": 8001,
+          "offset": 46304,
+          "size": 66640,
+          "header_u16": [
+            4,
+            6,
+            1,
+            2,
+            8,
+            31
+          ],
+          "hd_object_index": 427
+        }
+      ]
+    },
+    {
+      "resource": "anm18.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5012,
+          "offset": 32,
+          "size": 46288,
+          "header_u16": [
+            5,
+            72,
+            1,
+            1,
+            101,
+            407
+          ],
+          "hd_object_index": 347
+        },
+        {
+          "index": 1,
+          "resource_id": 5013,
+          "offset": 46320,
+          "size": 15168,
+          "header_u16": [
+            7,
+            24,
+            1,
+            1,
+            1316,
+            75
+          ],
+          "hd_object_index": 348
+        },
+        {
+          "index": 2,
+          "resource_id": 5014,
+          "offset": 61488,
+          "size": 61296,
+          "header_u16": [
+            6,
+            175,
+            1,
+            1,
+            207,
+            1494
+          ],
+          "hd_object_index": 349
+        },
+        {
+          "index": 3,
+          "resource_id": 8001,
+          "offset": 122784,
+          "size": 66640,
+          "header_u16": [
+            4,
+            6,
+            1,
+            2,
+            8,
+            31
+          ],
+          "hd_object_index": 427
+        }
+      ]
+    },
+    {
+      "resource": "anm19.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5012,
+          "offset": 16,
+          "size": 46288,
+          "header_u16": [
+            5,
+            72,
+            1,
+            1,
+            101,
+            407
+          ],
+          "hd_object_index": 347
+        },
+        {
+          "index": 1,
+          "resource_id": 8001,
+          "offset": 46304,
+          "size": 66640,
+          "header_u16": [
+            4,
+            6,
+            1,
+            2,
+            8,
+            31
+          ],
+          "hd_object_index": 427
+        }
+      ]
+    },
+    {
+      "resource": "anm20.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 100,
+          "offset": 32,
+          "size": 263312,
+          "header_u16": [
+            1,
+            2,
+            1,
+            1,
+            2,
+            2
+          ],
+          "hd_object_index": 13
+        },
+        {
+          "index": 1,
+          "resource_id": 120,
+          "offset": 263344,
+          "size": 16640,
+          "header_u16": [
+            2,
+            2,
+            1,
+            1,
+            4,
+            3
+          ],
+          "hd_object_index": 14
+        },
+        {
+          "index": 2,
+          "resource_id": 5020,
+          "offset": 279984,
+          "size": 16560,
+          "header_u16": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+          ],
+          "hd_object_index": 355
+        }
+      ]
+    },
+    {
+      "resource": "anm21.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5016,
+          "offset": 16,
+          "size": 405712,
+          "header_u16": [
+            52,
+            54,
+            1,
+            12,
+            104,
+            374
+          ],
+          "hd_object_index": 351
+        },
+        {
+          "index": 1,
+          "resource_id": 5027,
+          "offset": 405728,
+          "size": 2512,
+          "header_u16": [
+            1,
+            2,
+            1,
+            1,
+            2,
+            2
+          ],
+          "hd_object_index": 360
+        }
+      ]
+    },
+    {
+      "resource": "anm22.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5026,
+          "offset": 16,
+          "size": 405712,
+          "header_u16": [
+            52,
+            54,
+            1,
+            12,
+            104,
+            374
+          ],
+          "hd_object_index": 359
+        },
+        {
+          "index": 1,
+          "resource_id": 5027,
+          "offset": 405728,
+          "size": 2512,
+          "header_u16": [
+            1,
+            2,
+            1,
+            1,
+            2,
+            2
+          ],
+          "hd_object_index": 360
+        }
+      ]
+    },
+    {
+      "resource": "anm23.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 200,
+          "offset": 16,
+          "size": 263312,
+          "header_u16": [
+            1,
+            2,
+            1,
+            1,
+            2,
+            2
+          ],
+          "hd_object_index": 15
+        }
+      ]
+    },
+    {
+      "resource": "anm31.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5002,
+          "offset": 16,
+          "size": 66896,
+          "header_u16": [
+            5,
+            6,
+            1,
+            2,
+            10,
+            37
+          ],
+          "hd_object_index": 337
+        }
+      ]
+    },
+    {
+      "resource": "anm51.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 7001,
+          "offset": 16,
+          "size": 296560,
+          "header_u16": [
+            9,
+            9,
+            1,
+            9,
+            18,
+            9
+          ],
+          "hd_object_index": 416
+        }
+      ]
+    },
+    {
+      "resource": "anm52.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 7002,
+          "offset": 16,
+          "size": 296560,
+          "header_u16": [
+            9,
+            9,
+            1,
+            9,
+            18,
+            9
+          ],
+          "hd_object_index": 417
+        }
+      ]
+    },
+    {
+      "resource": "anm53.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 7003,
+          "offset": 16,
+          "size": 296560,
+          "header_u16": [
+            9,
+            9,
+            1,
+            9,
+            18,
+            9
+          ],
+          "hd_object_index": 418
+        }
+      ]
+    },
+    {
+      "resource": "anm54.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 7004,
+          "offset": 16,
+          "size": 296560,
+          "header_u16": [
+            9,
+            9,
+            1,
+            9,
+            18,
+            9
+          ],
+          "hd_object_index": 419
+        }
+      ]
+    },
+    {
+      "resource": "anm55.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 7005,
+          "offset": 16,
+          "size": 296560,
+          "header_u16": [
+            9,
+            9,
+            1,
+            9,
+            18,
+            9
+          ],
+          "hd_object_index": 420
+        }
+      ]
+    },
+    {
+      "resource": "anm56.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 7006,
+          "offset": 16,
+          "size": 296560,
+          "header_u16": [
+            9,
+            9,
+            1,
+            9,
+            18,
+            9
+          ],
+          "hd_object_index": 421
+        }
+      ]
+    },
+    {
+      "resource": "anm57.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 7007,
+          "offset": 16,
+          "size": 296560,
+          "header_u16": [
+            9,
+            9,
+            1,
+            9,
+            18,
+            9
+          ],
+          "hd_object_index": 422
+        }
+      ]
+    },
+    {
+      "resource": "anm58.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 7008,
+          "offset": 16,
+          "size": 296560,
+          "header_u16": [
+            9,
+            9,
+            1,
+            9,
+            18,
+            9
+          ],
+          "hd_object_index": 423
+        }
+      ]
+    },
+    {
+      "resource": "anm59.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 7009,
+          "offset": 16,
+          "size": 296560,
+          "header_u16": [
+            9,
+            9,
+            1,
+            9,
+            18,
+            9
+          ],
+          "hd_object_index": 424
+        }
+      ]
+    },
+    {
+      "resource": "anm60.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 7010,
+          "offset": 16,
+          "size": 296560,
+          "header_u16": [
+            9,
+            9,
+            1,
+            9,
+            18,
+            9
+          ],
+          "hd_object_index": 425
+        }
+      ]
+    },
+    {
+      "resource": "anm63.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 7013,
+          "offset": 16,
+          "size": 296560,
+          "header_u16": [
+            9,
+            9,
+            1,
+            9,
+            18,
+            9
+          ],
+          "hd_object_index": 426
+        }
+      ]
+    },
+    {
+      "resource": "anm70.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 2500,
+          "offset": 16,
+          "size": 240720,
+          "header_u16": [
+            58,
+            154,
+            1,
+            7,
+            394,
+            244
+          ],
+          "hd_object_index": 287
+        }
+      ]
+    },
+    {
+      "resource": "anm71.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 2570,
+          "offset": 16,
+          "size": 137472,
+          "header_u16": [
+            56,
+            95,
+            1,
+            4,
+            308,
+            109
+          ],
+          "hd_object_index": 290
+        }
+      ]
+    },
+    {
+      "resource": "anm72.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 2580,
+          "offset": 16,
+          "size": 283168,
+          "header_u16": [
+            60,
+            528,
+            1,
+            6,
+            906,
+            3309
+          ],
+          "hd_object_index": 292
+        }
+      ]
+    },
+    {
+      "resource": "anm73.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 2590,
+          "offset": 16,
+          "size": 128160,
+          "header_u16": [
+            54,
+            163,
+            1,
+            4,
+            411,
+            316
+          ],
+          "hd_object_index": 294
+        }
+      ]
+    },
+    {
+      "resource": "anm74.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 2600,
+          "offset": 16,
+          "size": 138832,
+          "header_u16": [
+            54,
+            99,
+            1,
+            4,
+            295,
+            163
+          ],
+          "hd_object_index": 296
+        }
+      ]
+    },
+    {
+      "resource": "anm75.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 2610,
+          "offset": 16,
+          "size": 155920,
+          "header_u16": [
+            54,
+            117,
+            6,
+            5,
+            284,
+            165
+          ],
+          "hd_object_index": 298
+        }
+      ]
+    },
+    {
+      "resource": "anm76.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 2140,
+          "offset": 16,
+          "size": 152560,
+          "header_u16": [
+            54,
+            30,
+            6,
+            5,
+            272,
+            47
+          ],
+          "hd_object_index": 239
+        }
+      ]
+    },
+    {
+      "resource": "anm77.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5000,
+          "offset": 16,
+          "size": 9888,
+          "header_u16": [
+            6,
+            5,
+            1,
+            2,
+            12,
+            5
+          ],
+          "hd_object_index": 336
+        }
+      ]
+    },
+    {
+      "resource": "anm78.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 3500,
+          "offset": 16,
+          "size": 206016,
+          "header_u16": [
+            97,
+            296,
+            1,
+            6,
+            719,
+            930
+          ],
+          "hd_object_index": 316
+        }
+      ]
+    },
+    {
+      "resource": "anm79.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 3020,
+          "offset": 16,
+          "size": 240704,
+          "header_u16": [
+            87,
+            187,
+            1,
+            7,
+            547,
+            193
+          ],
+          "hd_object_index": 310
+        }
+      ]
+    },
+    {
+      "resource": "anm80.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 3030,
+          "offset": 16,
+          "size": 233568,
+          "header_u16": [
+            82,
+            294,
+            1,
+            8,
+            671,
+            466
+          ],
+          "hd_object_index": 312
+        }
+      ]
+    },
+    {
+      "resource": "anm81.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 3040,
+          "offset": 16,
+          "size": 73024,
+          "header_u16": [
+            54,
+            100,
+            1,
+            2,
+            345,
+            131
+          ],
+          "hd_object_index": 314
+        }
+      ]
+    },
+    {
+      "resource": "anm98.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5102,
+          "offset": 144,
+          "size": 16896,
+          "header_u16": [
+            1,
+            9,
+            1,
+            1,
+            13,
+            9
+          ],
+          "hd_object_index": 363
+        },
+        {
+          "index": 1,
+          "resource_id": 5103,
+          "offset": 17040,
+          "size": 16976,
+          "header_u16": [
+            1,
+            11,
+            1,
+            1,
+            15,
+            11
+          ],
+          "hd_object_index": 364
+        },
+        {
+          "index": 2,
+          "resource_id": 5104,
+          "offset": 34016,
+          "size": 8608,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            9,
+            7
+          ],
+          "hd_object_index": 365
+        },
+        {
+          "index": 3,
+          "resource_id": 5105,
+          "offset": 42624,
+          "size": 8608,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            9,
+            7
+          ],
+          "hd_object_index": 366
+        },
+        {
+          "index": 4,
+          "resource_id": 5106,
+          "offset": 51232,
+          "size": 16848,
+          "header_u16": [
+            1,
+            8,
+            1,
+            1,
+            11,
+            8
+          ],
+          "hd_object_index": 367
+        },
+        {
+          "index": 5,
+          "resource_id": 5109,
+          "offset": 68080,
+          "size": 8544,
+          "header_u16": [
+            1,
+            5,
+            1,
+            1,
+            9,
+            5
+          ],
+          "hd_object_index": 369
+        },
+        {
+          "index": 6,
+          "resource_id": 5110,
+          "offset": 76624,
+          "size": 4416,
+          "header_u16": [
+            1,
+            4,
+            1,
+            1,
+            8,
+            4
+          ],
+          "hd_object_index": 370
+        },
+        {
+          "index": 7,
+          "resource_id": 5201,
+          "offset": 81040,
+          "size": 16832,
+          "header_u16": [
+            1,
+            8,
+            1,
+            1,
+            9,
+            8
+          ],
+          "hd_object_index": 373
+        },
+        {
+          "index": 8,
+          "resource_id": 5202,
+          "offset": 97872,
+          "size": 8624,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            10,
+            7
+          ],
+          "hd_object_index": 374
+        },
+        {
+          "index": 9,
+          "resource_id": 5203,
+          "offset": 106496,
+          "size": 16816,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            11,
+            7
+          ],
+          "hd_object_index": 375
+        },
+        {
+          "index": 10,
+          "resource_id": 5204,
+          "offset": 123312,
+          "size": 16944,
+          "header_u16": [
+            1,
+            10,
+            1,
+            1,
+            14,
+            10
+          ],
+          "hd_object_index": 376
+        },
+        {
+          "index": 11,
+          "resource_id": 5205,
+          "offset": 140256,
+          "size": 16848,
+          "header_u16": [
+            1,
+            8,
+            1,
+            1,
+            10,
+            8
+          ],
+          "hd_object_index": 377
+        },
+        {
+          "index": 12,
+          "resource_id": 5301,
+          "offset": 157104,
+          "size": 4416,
+          "header_u16": [
+            1,
+            4,
+            1,
+            1,
+            9,
+            4
+          ],
+          "hd_object_index": 382
+        },
+        {
+          "index": 13,
+          "resource_id": 5302,
+          "offset": 161520,
+          "size": 9376,
+          "header_u16": [
+            1,
+            14,
+            1,
+            1,
+            19,
+            28
+          ],
+          "hd_object_index": 383
+        },
+        {
+          "index": 14,
+          "resource_id": 5303,
+          "offset": 170896,
+          "size": 8656,
+          "header_u16": [
+            1,
+            8,
+            1,
+            1,
+            10,
+            8
+          ],
+          "hd_object_index": 384
+        },
+        {
+          "index": 15,
+          "resource_id": 5304,
+          "offset": 179552,
+          "size": 8608,
+          "header_u16": [
+            1,
+            7,
+            1,
+            1,
+            9,
+            7
+          ],
+          "hd_object_index": 385
+        },
+        {
+          "index": 16,
+          "resource_id": 5305,
+          "offset": 188160,
+          "size": 8656,
+          "header_u16": [
+            1,
+            8,
+            1,
+            1,
+            10,
+            8
+          ],
+          "hd_object_index": 386
+        },
+        {
+          "index": 17,
+          "resource_id": 5307,
+          "offset": 196816,
+          "size": 16944,
+          "header_u16": [
+            1,
+            9,
+            1,
+            1,
+            18,
+            9
+          ],
+          "hd_object_index": 387
+        },
+        {
+          "index": 18,
+          "resource_id": 5401,
+          "offset": 213760,
+          "size": 16944,
+          "header_u16": [
+            1,
+            10,
+            1,
+            1,
+            14,
+            10
+          ],
+          "hd_object_index": 390
+        },
+        {
+          "index": 19,
+          "resource_id": 5402,
+          "offset": 230704,
+          "size": 4416,
+          "header_u16": [
+            1,
+            4,
+            1,
+            1,
+            9,
+            4
+          ],
+          "hd_object_index": 391
+        },
+        {
+          "index": 20,
+          "resource_id": 5403,
+          "offset": 235120,
+          "size": 16896,
+          "header_u16": [
+            1,
+            9,
+            1,
+            1,
+            12,
+            9
+          ],
+          "hd_object_index": 392
+        },
+        {
+          "index": 21,
+          "resource_id": 5404,
+          "offset": 252016,
+          "size": 8576,
+          "header_u16": [
+            1,
+            6,
+            1,
+            1,
+            8,
+            6
+          ],
+          "hd_object_index": 393
+        },
+        {
+          "index": 22,
+          "resource_id": 5405,
+          "offset": 260592,
+          "size": 8608,
+          "header_u16": [
+            1,
+            6,
+            1,
+            1,
+            12,
+            6
+          ],
+          "hd_object_index": 394
+        }
+      ]
+    },
+    {
+      "resource": "anm99.dat",
+      "objects": [
+        {
+          "index": 0,
+          "resource_id": 5701,
+          "offset": 112,
+          "size": 17296,
+          "header_u16": [
+            1,
+            8,
+            6,
+            1,
+            21,
+            9
+          ],
+          "hd_object_index": 396
+        },
+        {
+          "index": 1,
+          "resource_id": 5702,
+          "offset": 17408,
+          "size": 17296,
+          "header_u16": [
+            1,
+            8,
+            6,
+            1,
+            21,
+            9
+          ],
+          "hd_object_index": 397
+        },
+        {
+          "index": 2,
+          "resource_id": 5703,
+          "offset": 34704,
+          "size": 8992,
+          "header_u16": [
+            1,
+            8,
+            6,
+            1,
+            10,
+            8
+          ],
+          "hd_object_index": 398
+        },
+        {
+          "index": 3,
+          "resource_id": 5704,
+          "offset": 43696,
+          "size": 8992,
+          "header_u16": [
+            1,
+            8,
+            6,
+            1,
+            10,
+            8
+          ],
+          "hd_object_index": 399
+        },
+        {
+          "index": 4,
+          "resource_id": 5705,
+          "offset": 52688,
+          "size": 8944,
+          "header_u16": [
+            1,
+            7,
+            6,
+            1,
+            9,
+            7
+          ],
+          "hd_object_index": 400
+        },
+        {
+          "index": 5,
+          "resource_id": 5706,
+          "offset": 61632,
+          "size": 8944,
+          "header_u16": [
+            1,
+            7,
+            6,
+            1,
+            9,
+            7
+          ],
+          "hd_object_index": 401
+        },
+        {
+          "index": 6,
+          "resource_id": 5707,
+          "offset": 70576,
+          "size": 18064,
+          "header_u16": [
+            4,
+            17,
+            6,
+            1,
+            47,
+            27
+          ],
+          "hd_object_index": 402
+        },
+        {
+          "index": 7,
+          "resource_id": 5708,
+          "offset": 88640,
+          "size": 8960,
+          "header_u16": [
+            2,
+            6,
+            6,
+            1,
+            13,
+            6
+          ],
+          "hd_object_index": 403
+        },
+        {
+          "index": 8,
+          "resource_id": 5709,
+          "offset": 97600,
+          "size": 9360,
+          "header_u16": [
+            3,
+            10,
+            6,
+            1,
+            33,
+            14
+          ],
+          "hd_object_index": 404
+        },
+        {
+          "index": 9,
+          "resource_id": 5710,
+          "offset": 106960,
+          "size": 8960,
+          "header_u16": [
+            2,
+            6,
+            6,
+            1,
+            14,
+            6
+          ],
+          "hd_object_index": 405
+        },
+        {
+          "index": 10,
+          "resource_id": 5711,
+          "offset": 115920,
+          "size": 17248,
+          "header_u16": [
+            2,
+            9,
+            6,
+            1,
+            14,
+            9
+          ],
+          "hd_object_index": 406
+        },
+        {
+          "index": 11,
+          "resource_id": 5712,
+          "offset": 133168,
+          "size": 17536,
+          "header_u16": [
+            3,
+            7,
+            6,
+            1,
+            40,
+            12
+          ],
+          "hd_object_index": 407
+        },
+        {
+          "index": 12,
+          "resource_id": 5713,
+          "offset": 150704,
+          "size": 9136,
+          "header_u16": [
+            2,
+            7,
+            6,
+            1,
+            31,
+            7
+          ],
+          "hd_object_index": 408
+        },
+        {
+          "index": 13,
+          "resource_id": 5714,
+          "offset": 159840,
+          "size": 9136,
+          "header_u16": [
+            2,
+            7,
+            6,
+            1,
+            31,
+            7
+          ],
+          "hd_object_index": 409
+        },
+        {
+          "index": 14,
+          "resource_id": 5715,
+          "offset": 168976,
+          "size": 8960,
+          "header_u16": [
+            2,
+            6,
+            6,
+            1,
+            14,
+            6
+          ],
+          "hd_object_index": 410
+        },
+        {
+          "index": 15,
+          "resource_id": 5716,
+          "offset": 177936,
+          "size": 17376,
+          "header_u16": [
+            1,
+            11,
+            6,
+            1,
+            23,
+            11
+          ],
+          "hd_object_index": 411
+        }
+      ]
+    }
+  ]
+}

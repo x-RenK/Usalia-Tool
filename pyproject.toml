@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "usalia-tool"
+version = "1.0.0"
+description = "Disgaea 1 Complete NX localization research and editing toolkit"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Ren / Disgaea Brasil"}]
+dependencies = ["Pillow>=11.2,<14", "numpy>=1.24,<3"]
+
+[project.optional-dependencies]
+nso = ["lz4>=4.3,<5"]
+
+[project.scripts]
+usalia = "usalia.cli:main"
+usalia-gui = "usalia.gui:main"
+
+[tool.setuptools.package-data]
+usalia = ["data/*.json"]
+
+[tool.setuptools.packages.find]
+include = ["usalia*"]

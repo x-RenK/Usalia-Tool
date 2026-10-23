@@ -1,0 +1,338 @@
+{
+  "À": {
+    "carrier": "詰",
+    "gid": 95,
+    "cp932": "8b6c",
+    "unicode_table_offset": 2148848,
+    "native_unicode": 192
+  },
+  "Á": {
+    "carrier": "却",
+    "gid": 96,
+    "cp932": "8b70",
+    "unicode_table_offset": 2148856,
+    "native_unicode": 193
+  },
+  "Â": {
+    "carrier": "客",
+    "gid": 97,
+    "cp932": "8b71",
+    "unicode_table_offset": 2148858,
+    "native_unicode": 194
+  },
+  "Ã": {
+    "carrier": "脚",
+    "gid": 98,
+    "cp932": "8b72",
+    "unicode_table_offset": 2148860,
+    "native_unicode": 195
+  },
+  "Ä": {
+    "carrier": "逆",
+    "gid": 100,
+    "cp932": "8b74",
+    "unicode_table_offset": 2148864,
+    "native_unicode": 196
+  },
+  "Ç": {
+    "carrier": "丘",
+    "gid": 101,
+    "cp932": "8b75",
+    "unicode_table_offset": 2148866,
+    "native_unicode": 199
+  },
+  "È": {
+    "carrier": "久",
+    "gid": 102,
+    "cp932": "8b76",
+    "unicode_table_offset": 2148868,
+    "native_unicode": 200
+  },
+  "É": {
+    "carrier": "仇",
+    "gid": 103,
+    "cp932": "8b77",
+    "unicode_table_offset": 2148870,
+    "native_unicode": 201
+  },
+  "Ê": {
+    "carrier": "休",
+    "gid": 104,
+    "cp932": "8b78",
+    "unicode_table_offset": 2148872,
+    "native_unicode": 202
+  },
+  "Ë": {
+    "carrier": "及",
+    "gid": 105,
+    "cp932": "8b79",
+    "unicode_table_offset": 2148874,
+    "native_unicode": 203
+  },
+  "Ì": {
+    "carrier": "吸",
+    "gid": 106,
+    "cp932": "8b7a",
+    "unicode_table_offset": 2148876,
+    "native_unicode": 204
+  },
+  "Í": {
+    "carrier": "宮",
+    "gid": 107,
+    "cp932": "8b7b",
+    "unicode_table_offset": 2148878,
+    "native_unicode": 205
+  },
+  "Î": {
+    "carrier": "弓",
+    "gid": 108,
+    "cp932": "8b7c",
+    "unicode_table_offset": 2148880,
+    "native_unicode": 206
+  },
+  "Ï": {
+    "carrier": "急",
+    "gid": 109,
+    "cp932": "8b7d",
+    "unicode_table_offset": 2148882,
+    "native_unicode": 207
+  },
+  "Ñ": {
+    "carrier": "救",
+    "gid": 110,
+    "cp932": "8b7e",
+    "unicode_table_offset": 2148884,
+    "native_unicode": 209
+  },
+  "Ò": {
+    "carrier": "朽",
+    "gid": 111,
+    "cp932": "8b80",
+    "unicode_table_offset": 2148886,
+    "native_unicode": 210
+  },
+  "Ó": {
+    "carrier": "求",
+    "gid": 112,
+    "cp932": "8b81",
+    "unicode_table_offset": 2148888,
+    "native_unicode": 211
+  },
+  "Ô": {
+    "carrier": "汲",
+    "gid": 113,
+    "cp932": "8b82",
+    "unicode_table_offset": 2148890,
+    "native_unicode": 212
+  },
+  "Õ": {
+    "carrier": "泣",
+    "gid": 114,
+    "cp932": "8b83",
+    "unicode_table_offset": 2148892,
+    "native_unicode": 213
+  },
+  "Ö": {
+    "carrier": "球",
+    "gid": 115,
+    "cp932": "8b85",
+    "unicode_table_offset": 2148896,
+    "native_unicode": 214
+  },
+  "Ù": {
+    "carrier": "究",
+    "gid": 116,
+    "cp932": "8b86",
+    "unicode_table_offset": 2148898,
+    "native_unicode": 217
+  },
+  "Ú": {
+    "carrier": "窮",
+    "gid": 117,
+    "cp932": "8b87",
+    "unicode_table_offset": 2148900,
+    "native_unicode": 218
+  },
+  "Û": {
+    "carrier": "級",
+    "gid": 118,
+    "cp932": "8b89",
+    "unicode_table_offset": 2148904,
+    "native_unicode": 219
+  },
+  "Ü": {
+    "carrier": "給",
+    "gid": 119,
+    "cp932": "8b8b",
+    "unicode_table_offset": 2148908,
+    "native_unicode": 220
+  },
+  "à": {
+    "carrier": "旧",
+    "gid": 120,
+    "cp932": "8b8c",
+    "unicode_table_offset": 2148910,
+    "native_unicode": 224
+  },
+  "á": {
+    "carrier": "牛",
+    "gid": 121,
+    "cp932": "8b8d",
+    "unicode_table_offset": 2148912,
+    "native_unicode": 225
+  },
+  "â": {
+    "carrier": "去",
+    "gid": 122,
+    "cp932": "8b8e",
+    "unicode_table_offset": 2148914,
+    "native_unicode": 226
+  },
+  "ã": {
+    "carrier": "居",
+    "gid": 123,
+    "cp932": "8b8f",
+    "unicode_table_offset": 2148916,
+    "native_unicode": 227
+  },
+  "ä": {
+    "carrier": "巨",
+    "gid": 124,
+    "cp932": "8b90",
+    "unicode_table_offset": 2148918,
+    "native_unicode": 228
+  },
+  "ç": {
+    "carrier": "拒",
+    "gid": 125,
+    "cp932": "8b91",
+    "unicode_table_offset": 2148920,
+    "native_unicode": 231
+  },
+  "è": {
+    "carrier": "拠",
+    "gid": 126,
+    "cp932": "8b92",
+    "unicode_table_offset": 2148922,
+    "native_unicode": 232
+  },
+  "é": {
+    "carrier": "挙",
+    "gid": 127,
+    "cp932": "8b93",
+    "unicode_table_offset": 2148924,
+    "native_unicode": 233
+  },
+  "ê": {
+    "carrier": "許",
+    "gid": 129,
+    "cp932": "8b96",
+    "unicode_table_offset": 2148930,
+    "native_unicode": 234
+  },
+  "ë": {
+    "carrier": "距",
+    "gid": 130,
+    "cp932": "8b97",
+    "unicode_table_offset": 2148932,
+    "native_unicode": 235
+  },
+  "ì": {
+    "carrier": "漁",
+    "gid": 131,
+    "cp932": "8b99",
+    "unicode_table_offset": 2148936,
+    "native_unicode": 236
+  },
+  "í": {
+    "carrier": "魚",
+    "gid": 132,
+    "cp932": "8b9b",
+    "unicode_table_offset": 2148940,
+    "native_unicode": 237
+  },
+  "î": {
+    "carrier": "亨",
+    "gid": 133,
+    "cp932": "8b9c",
+    "unicode_table_offset": 2148942,
+    "native_unicode": 238
+  },
+  "ï": {
+    "carrier": "京",
+    "gid": 134,
+    "cp932": "8b9e",
+    "unicode_table_offset": 2148946,
+    "native_unicode": 239
+  },
+  "ñ": {
+    "carrier": "供",
+    "gid": 135,
+    "cp932": "8b9f",
+    "unicode_table_offset": 2148948,
+    "native_unicode": 241
+  },
+  "ò": {
+    "carrier": "競",
+    "gid": 136,
+    "cp932": "8ba3",
+    "unicode_table_offset": 2148956,
+    "native_unicode": 242
+  },
+  "ó": {
+    "carrier": "共",
+    "gid": 137,
+    "cp932": "8ba4",
+    "unicode_table_offset": 2148958,
+    "native_unicode": 243
+  },
+  "ô": {
+    "carrier": "凶",
+    "gid": 138,
+    "cp932": "8ba5",
+    "unicode_table_offset": 2148960,
+    "native_unicode": 244
+  },
+  "õ": {
+    "carrier": "協",
+    "gid": 139,
+    "cp932": "8ba6",
+    "unicode_table_offset": 2148962,
+    "native_unicode": 245
+  },
+  "ö": {
+    "carrier": "叫",
+    "gid": 140,
+    "cp932": "8ba9",
+    "unicode_table_offset": 2148968,
+    "native_unicode": 246
+  },
+  "ù": {
+    "carrier": "怯",
+    "gid": 143,
+    "cp932": "8baf",
+    "unicode_table_offset": 2148980,
+    "native_unicode": 249
+  },
+  "ú": {
+    "carrier": "恐",
+    "gid": 144,
+    "cp932": "8bb0",
+    "unicode_table_offset": 2148982,
+    "native_unicode": 250
+  },
+  "û": {
+    "carrier": "恭",
+    "gid": 145,
+    "cp932": "8bb1",
+    "unicode_table_offset": 2148984,
+    "native_unicode": 251
+  },
+  "ü": {
+    "carrier": "挟",
+    "gid": 146,
+    "cp932": "8bb2",
+    "unicode_table_offset": 2148986,
+    "native_unicode": 252
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "start_names_historical": [
+    "script.dat",
+    "talk.dat",
+    "RMAPS.dat",
+    "RMAPS2.dat",
+    "new_font.ffm",
+    "new_font.tx2",
+    "font.ffm",
+    "font.tx2",
+    "new_font_c.ffm",
+    "new_font_c.tx2",
+    "new_font_k.ffm",
+    "new_font_k.tx2",
+    "sys02.tx2",
+    "sys03.tx2",
+    "sys04.tx2",
+    "sys05.tx2",
+    "sys06.tx2",
+    "wbg03.tx2",
+    "sys07.tx2",
+    "number.tx2",
+    "waku01.tx2",
+    "wbg01.tx2",
+    "wbg02.tx2",
+    "waku02.tx2",
+    "waku03.tx2",
+    "item.tx2",
+    "name.tx2",
+    "wbg04.tx2",
+    "wbg05.tx2",
+    "wbg06.tx2",
+    "wbg08.tx2",
+    "wbg09.tx2",
+    "back.tx2",
+    "eef.tx2",
+    "effect.km3",
+    "base.km2",
+    "mgate.km2",
+    "taiho01.km2",
+    "taiho02.km2",
+    "cursor.km2",
+    "enn.km2",
+    "magic.dat",
+    "HABIT.dat",
+    "char_j.dat",
+    "char_e.dat",
+    "char_c.dat",
+    "char_k.dat",
+    "charhelp.dat",
+    "mitem.dat",
+    "dungeon.dat",
+    "GE.dat",
+    "name_j.dat",
+    "name_e.dat",
+    "name_c.dat",
+    "name_k.dat",
+    "WISH.dat",
+    "HOSPITAL.dat",
+    "THIEF.dat",
+    "zukan.dat",
+    "musicshop.dat",
+    "geocube.dat",
+    "face.dat",
+    "mp25001.dat",
+    "se01.phd",
+    "se01.pbd",
+    "se02.phd",
+    "se02.pbd",
+    "voice01.phd",
+    "voice01.pbd",
+    "voice02.phd",
+    "voice02.pbd",
+    "ANM00.dat",
+    "keyboard.tx2",
+    "new_face.dat",
+    "new_gui01.tx2",
+    "new_keyboard.tx2",
+    "new_gui02.tx2",
+    "new_sys06.tx2",
+    "new_waku3.tx2",
+    "new_gui03.tx2",
+    "new_gui04.tx2",
+    "new_item.tx2",
+    "new_gui05.tx2",
+    "new_gui06.tx2",
+    "new_gui07.tx2",
+    "new_gui08.tx2",
+    "new_gui09.tx2",
+    "new_gui10.tx2",
+    "new_gui11.tx2",
+    "new_gui12.tx2",
+    "new_sys01.tx2",
+    "new_number.tx2",
+    "new_sys05.tx2",
+    "new_gui13.tx2",
+    "new_name.tx2",
+    "new_number02.tx2",
+    "new_mp25001.dat",
+    "menu_list.dat"
+  ],
+  "english_layouts": {
+    "40": {
+      "row_size": 180,
+      "header": 8,
+      "fields": [
+        [
+          "name",
+          8,
+          40
+        ],
+        [
+          "description",
+          51,
+          110
+        ]
+      ]
+    },
+    "41": {
+      "row_size": 64,
+      "header": 8,
+      "fields": [
+        [
+          "text",
+          0,
+          56
+        ]
+      ]
+    },
+    "46": {
+      "row_size": 116,
+      "header": 8,
+      "fields": [
+        [
+          "text",
+          2,
+          114
+        ]
+      ]
+    },
+    "47": {
+      "row_size": 200,
+      "header": 8,
+      "fields": [
+        [
+          "name",
+          0,
+          40
+        ],
+        [
+          "description",
+          41,
+          114
+        ]
+      ]
+    },
+    "48": {
+      "row_size": 40,
+      "header": 8,
+      "fields": [
+        [
+          "name",
+          0,
+          32
+        ]
+      ]
+    },
+    "49": {
+      "row_size": 148,
+      "header": 8,
+      "fields": [
+        [
+          "name",
+          0,
+          32
+        ],
+        [
+          "description",
+          33,
+          112
+        ]
+      ]
+    },
+    "54": {
+      "row_size": 180,
+      "header": 8,
+      "fields": [
+        [
+          "title",
+          6,
+          52
+        ],
+        [
+          "description",
+          59,
+          112
+        ]
+      ]
+    },
+    "56": {
+      "row_size": 36,
+      "header": 8,
+      "fields": [
+        [
+          "text",
+          0,
+          32
+        ]
+      ]
+    },
+    "57": {
+      "row_size": 736,
+      "header": 8,
+      "fields": [
+        [
+          "title",
+          0,
+          32
+        ],
+        [
+          "line_1",
+          33,
+          86
+        ],
+        [
+          "line_2",
+          120,
+          86
+        ],
+        [
+          "line_3",
+          207,
+          86
+        ],
+        [
+          "line_4",
+          294,
+          86
+        ],
+        [
+          "line_5",
+          381,
+          86
+        ],
+        [
+          "line_6",
+          468,
+          86
+        ],
+        [
+          "line_7",
+          555,
+          86
+        ],
+        [
+          "line_8",
+          642,
+          86
+        ]
+      ]
+    },
+    "58": {
+      "row_size": 148,
+      "header": 8,
+      "fields": [
+        [
+          "display",
+          29,
+          118
+        ]
+      ]
+    }
+  }
+}

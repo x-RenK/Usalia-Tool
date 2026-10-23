@@ -1,0 +1,10 @@
+{
+  "original_main_sha256": "5abb982a8d73fd627769acd122b585485c3745350c6a96bf933d4cec529a5c1b",
+  "analysis_image_sha256": "002b2959fe7df512bab962618fb9e6b38ca806d1882eb73c951b9736ce9eb172",
+  "native_mapping_characters": 48,
+  "native_patch_bytes": 96,
+  "original_table_values_verified": true,
+  "generated_patch_identical_to_historical_native_patch": true,
+  "json_offsets_are_memory_relative": true,
+  "ips_offsets_add_0x100": true
+}

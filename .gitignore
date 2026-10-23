@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+build/
+dist/
+.pytest_cache/
+# Local game dumps, extracted assets and translation work never belong in the repository.
+workspace/
+private/
+*.DAT
+*.dat
+*.nltx
+*.tx2
+*.fad
+*.bin
+*.ips
+*.nsp
+*.xci
+*.nso
+*.nro
+*.exe
+*.dll
+*.zip
+*.rar
+*.7z

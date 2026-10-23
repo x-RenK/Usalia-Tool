@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-23",
+  "tool_version": "1.0.0",
+  "research_sources": [
+    "Historical native Unicode Tool v10 source (distinct from translation package v10)",
+    "Disgaea_Textos_Graficos_Localizados.txt",
+    "PT-BR distribution v6 and structural inspection scripts",
+    "Chapter project v7",
+    "Chapter/save-title correction project v8",
+    "Refinement project v9",
+    "Lettering project v10",
+    "Disgaea_PC_PTBR_Acompanhamento_Teste50U.xlsx: adjustment index",
+    "PC original/translated comparison report"
+  ],
+  "evidence_policy": {
+    "verified": "Rechecked against local bytes or actual decoded images",
+    "historical": "Recorded in a previous project report; not necessarily re-run",
+    "unverified": "Do not infer support beyond documented variants"
+  },
+  "assets_excluded": [
+    "Game archives/executables/fonts/artwork",
+    "Complete PC translation scripts",
+    "Keys, saves, private paths and account details"
+  ],
+  "aj_catalog_note": "851 historical rows. Portuguese source notes retained; platform naming normalized to NX. Statuses belong to their original revision."
+}

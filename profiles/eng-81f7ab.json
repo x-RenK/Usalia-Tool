@@ -1,0 +1,95 @@
+{
+  "profile": "Disgaea 1 Complete NX ENG",
+  "title_id": "01004B100AF18000",
+  "build_id_full": "81F7AB934AD9A6DC823F64A10E12C93C00000000000000000000000000000000",
+  "ips_filename": "81F7AB934AD9A6DC823F64A10E12C93C.ips",
+  "offset_convention": "analysis memory image: 0x100-byte header plus virtual memory offset",
+  "scope": "Observed build only; no JP compatibility assertion",
+  "root_count": 229,
+  "start_count": 107,
+  "hd_start_slot": 96,
+  "speaker_atlas_slot": 92,
+  "speaker_atlas_dimensions": [
+    512,
+    4096
+  ],
+  "hd_counts": {
+    "objects": 669,
+    "sheets": 1346,
+    "palettes": 1658
+  },
+  "hd_table_relative": "0x32df80",
+  "hd_pixels_relative": "0x339b40",
+  "narration_hd_objects": {
+    "intro": {
+      "index": 337,
+      "id": 5002
+    },
+    "celestia": {
+      "index": 352,
+      "id": 5017
+    },
+    "red_moon_mother": {
+      "index": 338,
+      "id": 5003
+    },
+    "red_moon_song": {
+      "index": 339,
+      "id": 5004
+    },
+    "court_epilogue": {
+      "index": 340,
+      "id": 5005
+    },
+    "travel_to_celestia": {
+      "index": 341,
+      "id": 5006
+    },
+    "flower_epilogue": {
+      "index": 342,
+      "id": 5007
+    }
+  },
+  "chapter_cards": [
+    "new_bg051.nltx",
+    "new_bg052.nltx",
+    "new_bg053.nltx",
+    "new_bg054.nltx",
+    "new_bg055.nltx",
+    "new_bg056.nltx",
+    "new_bg057.nltx",
+    "new_bg058.nltx",
+    "new_bg059.nltx",
+    "new_bg060.nltx",
+    "new_bg061.nltx",
+    "new_bg062.nltx",
+    "new_bg063.nltx",
+    "new_bg064.nltx",
+    "new_bg065.nltx",
+    "new_bg066.nltx",
+    "new_bg067.nltx",
+    "new_bg068.nltx"
+  ],
+  "next_episode": "new_bg071.nltx",
+  "executable": {
+    "cp932_routine_historical": "0x101cf8",
+    "conversion_region_historical": "0x20bae8",
+    "chapter_pool_start": "0x1bbe87",
+    "chapter_pool_end_exclusive": "0x1bc0e5",
+    "chapter_pointer_table": "0x23fc40",
+    "chapter_rela_addends": "0x169450",
+    "pointer_stride": 8,
+    "rela_stride": 24,
+    "rela_type": 1027,
+    "save_prompt": "0x1c4600",
+    "save_prompt_slot": 11,
+    "default_option": "0x1bf9cf",
+    "default_option_slot": 15
+  },
+  "warnings": [
+    "No original game binaries are distributed",
+    "Historical absolute offsets may change after repacking; parse directories",
+    "The v10 artwork revision still awaited visual NX testing"
+  ],
+  "accent_mapping_json_offsets": "memory-relative; add 0x100 for IPS / analysis image"
+}

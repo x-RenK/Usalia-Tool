@@ -1,0 +1,1838 @@
+{
+  "source": "PT-BR v6 research baseline, not a clean original dump",
+  "warning": "Absolute offsets are historical; always parse your own archive",
+  "entries": [
+    {
+      "index": 0,
+      "name": "anm01.dat",
+      "size": 253664,
+      "offset": 48128,
+      "directory_offset": 16,
+      "layout": "nx64"
+    },
+    {
+      "index": 1,
+      "name": "anm02.dat",
+      "size": 181200,
+      "offset": 302080,
+      "directory_offset": 80,
+      "layout": "nx64"
+    },
+    {
+      "index": 2,
+      "name": "anm03.dat",
+      "size": 82592,
+      "offset": 483328,
+      "directory_offset": 144,
+      "layout": "nx64"
+    },
+    {
+      "index": 3,
+      "name": "anm04.dat",
+      "size": 239552,
+      "offset": 566272,
+      "directory_offset": 208,
+      "layout": "nx64"
+    },
+    {
+      "index": 4,
+      "name": "anm05.dat",
+      "size": 108080,
+      "offset": 805888,
+      "directory_offset": 272,
+      "layout": "nx64"
+    },
+    {
+      "index": 5,
+      "name": "anm06.dat",
+      "size": 240576,
+      "offset": 914432,
+      "directory_offset": 336,
+      "layout": "nx64"
+    },
+    {
+      "index": 6,
+      "name": "anm07.dat",
+      "size": 36304,
+      "offset": 1155072,
+      "directory_offset": 400,
+      "layout": "nx64"
+    },
+    {
+      "index": 7,
+      "name": "anm08.dat",
+      "size": 256496,
+      "offset": 1191424,
+      "directory_offset": 464,
+      "layout": "nx64"
+    },
+    {
+      "index": 8,
+      "name": "anm09.dat",
+      "size": 285488,
+      "offset": 1447936,
+      "directory_offset": 528,
+      "layout": "nx64"
+    },
+    {
+      "index": 9,
+      "name": "anm10.dat",
+      "size": 193296,
+      "offset": 1733632,
+      "directory_offset": 592,
+      "layout": "nx64"
+    },
+    {
+      "index": 10,
+      "name": "anm11.dat",
+      "size": 173840,
+      "offset": 1927168,
+      "directory_offset": 656,
+      "layout": "nx64"
+    },
+    {
+      "index": 11,
+      "name": "anm12.dat",
+      "size": 220032,
+      "offset": 2101248,
+      "directory_offset": 720,
+      "layout": "nx64"
+    },
+    {
+      "index": 12,
+      "name": "anm13.dat",
+      "size": 263056,
+      "offset": 2321408,
+      "directory_offset": 784,
+      "layout": "nx64"
+    },
+    {
+      "index": 13,
+      "name": "anm14.dat",
+      "size": 276192,
+      "offset": 2584576,
+      "directory_offset": 848,
+      "layout": "nx64"
+    },
+    {
+      "index": 14,
+      "name": "anm16.dat",
+      "size": 257360,
+      "offset": 2861056,
+      "directory_offset": 912,
+      "layout": "nx64"
+    },
+    {
+      "index": 15,
+      "name": "anm17.dat",
+      "size": 112944,
+      "offset": 3118592,
+      "directory_offset": 976,
+      "layout": "nx64"
+    },
+    {
+      "index": 16,
+      "name": "anm18.dat",
+      "size": 189424,
+      "offset": 3231744,
+      "directory_offset": 1040,
+      "layout": "nx64"
+    },
+    {
+      "index": 17,
+      "name": "anm19.dat",
+      "size": 112944,
+      "offset": 3421184,
+      "directory_offset": 1104,
+      "layout": "nx64"
+    },
+    {
+      "index": 18,
+      "name": "anm20.dat",
+      "size": 296544,
+      "offset": 3534336,
+      "directory_offset": 1168,
+      "layout": "nx64"
+    },
+    {
+      "index": 19,
+      "name": "anm21.dat",
+      "size": 408240,
+      "offset": 3831296,
+      "directory_offset": 1232,
+      "layout": "nx64"
+    },
+    {
+      "index": 20,
+      "name": "anm22.dat",
+      "size": 408240,
+      "offset": 4239872,
+      "directory_offset": 1296,
+      "layout": "nx64"
+    },
+    {
+      "index": 21,
+      "name": "anm23.dat",
+      "size": 263328,
+      "offset": 4648448,
+      "directory_offset": 1360,
+      "layout": "nx64"
+    },
+    {
+      "index": 22,
+      "name": "anm31.dat",
+      "size": 66912,
+      "offset": 4912128,
+      "directory_offset": 1424,
+      "layout": "nx64"
+    },
+    {
+      "index": 23,
+      "name": "anm51.dat",
+      "size": 296576,
+      "offset": 4979200,
+      "directory_offset": 1488,
+      "layout": "nx64"
+    },
+    {
+      "index": 24,
+      "name": "anm52.dat",
+      "size": 296576,
+      "offset": 5276160,
+      "directory_offset": 1552,
+      "layout": "nx64"
+    },
+    {
+      "index": 25,
+      "name": "anm53.dat",
+      "size": 296576,
+      "offset": 5573120,
+      "directory_offset": 1616,
+      "layout": "nx64"
+    },
+    {
+      "index": 26,
+      "name": "anm54.dat",
+      "size": 296576,
+      "offset": 5870080,
+      "directory_offset": 1680,
+      "layout": "nx64"
+    },
+    {
+      "index": 27,
+      "name": "anm55.dat",
+      "size": 296576,
+      "offset": 6167040,
+      "directory_offset": 1744,
+      "layout": "nx64"
+    },
+    {
+      "index": 28,
+      "name": "anm56.dat",
+      "size": 296576,
+      "offset": 6464000,
+      "directory_offset": 1808,
+      "layout": "nx64"
+    },
+    {
+      "index": 29,
+      "name": "anm57.dat",
+      "size": 296576,
+      "offset": 6760960,
+      "directory_offset": 1872,
+      "layout": "nx64"
+    },
+    {
+      "index": 30,
+      "name": "anm58.dat",
+      "size": 296576,
+      "offset": 7057920,
+      "directory_offset": 1936,
+      "layout": "nx64"
+    },
+    {
+      "index": 31,
+      "name": "anm59.dat",
+      "size": 296576,
+      "offset": 7354880,
+      "directory_offset": 2000,
+      "layout": "nx64"
+    },
+    {
+      "index": 32,
+      "name": "anm60.dat",
+      "size": 296576,
+      "offset": 7651840,
+      "directory_offset": 2064,
+      "layout": "nx64"
+    },
+    {
+      "index": 33,
+      "name": "anm63.dat",
+      "size": 296576,
+      "offset": 7948800,
+      "directory_offset": 2128,
+      "layout": "nx64"
+    },
+    {
+      "index": 34,
+      "name": "anm70.dat",
+      "size": 240736,
+      "offset": 8710656,
+      "directory_offset": 2192,
+      "layout": "nx64"
+    },
+    {
+      "index": 35,
+      "name": "anm71.dat",
+      "size": 137488,
+      "offset": 8951808,
+      "directory_offset": 2256,
+      "layout": "nx64"
+    },
+    {
+      "index": 36,
+      "name": "anm72.dat",
+      "size": 283184,
+      "offset": 9089536,
+      "directory_offset": 2320,
+      "layout": "nx64"
+    },
+    {
+      "index": 37,
+      "name": "anm73.dat",
+      "size": 128176,
+      "offset": 9373184,
+      "directory_offset": 2384,
+      "layout": "nx64"
+    },
+    {
+      "index": 38,
+      "name": "anm74.dat",
+      "size": 138848,
+      "offset": 9501696,
+      "directory_offset": 2448,
+      "layout": "nx64"
+    },
+    {
+      "index": 39,
+      "name": "anm75.dat",
+      "size": 155936,
+      "offset": 9640960,
+      "directory_offset": 2512,
+      "layout": "nx64"
+    },
+    {
+      "index": 40,
+      "name": "anm76.dat",
+      "size": 152576,
+      "offset": 9797120,
+      "directory_offset": 2576,
+      "layout": "nx64"
+    },
+    {
+      "index": 41,
+      "name": "anm77.dat",
+      "size": 9904,
+      "offset": 9950208,
+      "directory_offset": 2640,
+      "layout": "nx64"
+    },
+    {
+      "index": 42,
+      "name": "anm78.dat",
+      "size": 206032,
+      "offset": 9960448,
+      "directory_offset": 2704,
+      "layout": "nx64"
+    },
+    {
+      "index": 43,
+      "name": "anm79.dat",
+      "size": 240720,
+      "offset": 10166784,
+      "directory_offset": 2768,
+      "layout": "nx64"
+    },
+    {
+      "index": 44,
+      "name": "anm80.dat",
+      "size": 233584,
+      "offset": 10407936,
+      "directory_offset": 2832,
+      "layout": "nx64"
+    },
+    {
+      "index": 45,
+      "name": "anm81.dat",
+      "size": 73040,
+      "offset": 10641920,
+      "directory_offset": 2896,
+      "layout": "nx64"
+    },
+    {
+      "index": 46,
+      "name": "anm98.dat",
+      "size": 269200,
+      "offset": 8245760,
+      "directory_offset": 2960,
+      "layout": "nx64"
+    },
+    {
+      "index": 47,
+      "name": "anm99.dat",
+      "size": 195312,
+      "offset": 8515072,
+      "directory_offset": 3024,
+      "layout": "nx64"
+    },
+    {
+      "index": 48,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 3088,
+      "layout": "nx64"
+    },
+    {
+      "index": 49,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 3152,
+      "layout": "nx64"
+    },
+    {
+      "index": 50,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 3216,
+      "layout": "nx64"
+    },
+    {
+      "index": 51,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 3280,
+      "layout": "nx64"
+    },
+    {
+      "index": 52,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 3344,
+      "layout": "nx64"
+    },
+    {
+      "index": 53,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 3408,
+      "layout": "nx64"
+    },
+    {
+      "index": 54,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 3472,
+      "layout": "nx64"
+    },
+    {
+      "index": 55,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 3536,
+      "layout": "nx64"
+    },
+    {
+      "index": 56,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 3600,
+      "layout": "nx64"
+    },
+    {
+      "index": 57,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 3664,
+      "layout": "nx64"
+    },
+    {
+      "index": 58,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 3728,
+      "layout": "nx64"
+    },
+    {
+      "index": 59,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 3792,
+      "layout": "nx64"
+    },
+    {
+      "index": 60,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 3856,
+      "layout": "nx64"
+    },
+    {
+      "index": 61,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 3920,
+      "layout": "nx64"
+    },
+    {
+      "index": 62,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 3984,
+      "layout": "nx64"
+    },
+    {
+      "index": 63,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 4048,
+      "layout": "nx64"
+    },
+    {
+      "index": 64,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 4112,
+      "layout": "nx64"
+    },
+    {
+      "index": 65,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 4176,
+      "layout": "nx64"
+    },
+    {
+      "index": 66,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 4240,
+      "layout": "nx64"
+    },
+    {
+      "index": 67,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 4304,
+      "layout": "nx64"
+    },
+    {
+      "index": 68,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 4368,
+      "layout": "nx64"
+    },
+    {
+      "index": 69,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 4432,
+      "layout": "nx64"
+    },
+    {
+      "index": 70,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 4496,
+      "layout": "nx64"
+    },
+    {
+      "index": 71,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 4560,
+      "layout": "nx64"
+    },
+    {
+      "index": 72,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 4624,
+      "layout": "nx64"
+    },
+    {
+      "index": 73,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 4688,
+      "layout": "nx64"
+    },
+    {
+      "index": 74,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 4752,
+      "layout": "nx64"
+    },
+    {
+      "index": 75,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 4816,
+      "layout": "nx64"
+    },
+    {
+      "index": 76,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 4880,
+      "layout": "nx64"
+    },
+    {
+      "index": 77,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 4944,
+      "layout": "nx64"
+    },
+    {
+      "index": 78,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 5008,
+      "layout": "nx64"
+    },
+    {
+      "index": 79,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 5072,
+      "layout": "nx64"
+    },
+    {
+      "index": 80,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 5136,
+      "layout": "nx64"
+    },
+    {
+      "index": 81,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 5200,
+      "layout": "nx64"
+    },
+    {
+      "index": 82,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 5264,
+      "layout": "nx64"
+    },
+    {
+      "index": 83,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 5328,
+      "layout": "nx64"
+    },
+    {
+      "index": 84,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 5392,
+      "layout": "nx64"
+    },
+    {
+      "index": 85,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 5456,
+      "layout": "nx64"
+    },
+    {
+      "index": 86,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 5520,
+      "layout": "nx64"
+    },
+    {
+      "index": 87,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 5584,
+      "layout": "nx64"
+    },
+    {
+      "index": 88,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 5648,
+      "layout": "nx64"
+    },
+    {
+      "index": 89,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 5712,
+      "layout": "nx64"
+    },
+    {
+      "index": 90,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 5776,
+      "layout": "nx64"
+    },
+    {
+      "index": 91,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 5840,
+      "layout": "nx64"
+    },
+    {
+      "index": 92,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 5904,
+      "layout": "nx64"
+    },
+    {
+      "index": 93,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 5968,
+      "layout": "nx64"
+    },
+    {
+      "index": 94,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 6032,
+      "layout": "nx64"
+    },
+    {
+      "index": 95,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 6096,
+      "layout": "nx64"
+    },
+    {
+      "index": 96,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 6160,
+      "layout": "nx64"
+    },
+    {
+      "index": 97,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 6224,
+      "layout": "nx64"
+    },
+    {
+      "index": 98,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 6288,
+      "layout": "nx64"
+    },
+    {
+      "index": 99,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 6352,
+      "layout": "nx64"
+    },
+    {
+      "index": 100,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 6416,
+      "layout": "nx64"
+    },
+    {
+      "index": 101,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 6480,
+      "layout": "nx64"
+    },
+    {
+      "index": 102,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 6544,
+      "layout": "nx64"
+    },
+    {
+      "index": 103,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 6608,
+      "layout": "nx64"
+    },
+    {
+      "index": 104,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 6672,
+      "layout": "nx64"
+    },
+    {
+      "index": 105,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 6736,
+      "layout": "nx64"
+    },
+    {
+      "index": 106,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 6800,
+      "layout": "nx64"
+    },
+    {
+      "index": 107,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 6864,
+      "layout": "nx64"
+    },
+    {
+      "index": 108,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 6928,
+      "layout": "nx64"
+    },
+    {
+      "index": 109,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 6992,
+      "layout": "nx64"
+    },
+    {
+      "index": 110,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 7056,
+      "layout": "nx64"
+    },
+    {
+      "index": 111,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 7120,
+      "layout": "nx64"
+    },
+    {
+      "index": 112,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 7184,
+      "layout": "nx64"
+    },
+    {
+      "index": 113,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 7248,
+      "layout": "nx64"
+    },
+    {
+      "index": 114,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 7312,
+      "layout": "nx64"
+    },
+    {
+      "index": 115,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 7376,
+      "layout": "nx64"
+    },
+    {
+      "index": 116,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 7440,
+      "layout": "nx64"
+    },
+    {
+      "index": 117,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 7504,
+      "layout": "nx64"
+    },
+    {
+      "index": 118,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 7568,
+      "layout": "nx64"
+    },
+    {
+      "index": 119,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 7632,
+      "layout": "nx64"
+    },
+    {
+      "index": 120,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 7696,
+      "layout": "nx64"
+    },
+    {
+      "index": 121,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 7760,
+      "layout": "nx64"
+    },
+    {
+      "index": 122,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 7824,
+      "layout": "nx64"
+    },
+    {
+      "index": 123,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 7888,
+      "layout": "nx64"
+    },
+    {
+      "index": 124,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 7952,
+      "layout": "nx64"
+    },
+    {
+      "index": 125,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 8016,
+      "layout": "nx64"
+    },
+    {
+      "index": 126,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 8080,
+      "layout": "nx64"
+    },
+    {
+      "index": 127,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 8144,
+      "layout": "nx64"
+    },
+    {
+      "index": 128,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 8208,
+      "layout": "nx64"
+    },
+    {
+      "index": 129,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 8272,
+      "layout": "nx64"
+    },
+    {
+      "index": 130,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 8336,
+      "layout": "nx64"
+    },
+    {
+      "index": 131,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 8400,
+      "layout": "nx64"
+    },
+    {
+      "index": 132,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 8464,
+      "layout": "nx64"
+    },
+    {
+      "index": 133,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 8528,
+      "layout": "nx64"
+    },
+    {
+      "index": 134,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 8592,
+      "layout": "nx64"
+    },
+    {
+      "index": 135,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 8656,
+      "layout": "nx64"
+    },
+    {
+      "index": 136,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 8720,
+      "layout": "nx64"
+    },
+    {
+      "index": 137,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 8784,
+      "layout": "nx64"
+    },
+    {
+      "index": 138,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 8848,
+      "layout": "nx64"
+    },
+    {
+      "index": 139,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 8912,
+      "layout": "nx64"
+    },
+    {
+      "index": 140,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 8976,
+      "layout": "nx64"
+    },
+    {
+      "index": 141,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 9040,
+      "layout": "nx64"
+    },
+    {
+      "index": 142,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 9104,
+      "layout": "nx64"
+    },
+    {
+      "index": 143,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 9168,
+      "layout": "nx64"
+    },
+    {
+      "index": 144,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 9232,
+      "layout": "nx64"
+    },
+    {
+      "index": 145,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 9296,
+      "layout": "nx64"
+    },
+    {
+      "index": 146,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 9360,
+      "layout": "nx64"
+    },
+    {
+      "index": 147,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 9424,
+      "layout": "nx64"
+    },
+    {
+      "index": 148,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 9488,
+      "layout": "nx64"
+    },
+    {
+      "index": 149,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 9552,
+      "layout": "nx64"
+    },
+    {
+      "index": 150,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 9616,
+      "layout": "nx64"
+    },
+    {
+      "index": 151,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 9680,
+      "layout": "nx64"
+    },
+    {
+      "index": 152,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 9744,
+      "layout": "nx64"
+    },
+    {
+      "index": 153,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 9808,
+      "layout": "nx64"
+    },
+    {
+      "index": 154,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 9872,
+      "layout": "nx64"
+    },
+    {
+      "index": 155,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 9936,
+      "layout": "nx64"
+    },
+    {
+      "index": 156,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 10000,
+      "layout": "nx64"
+    },
+    {
+      "index": 157,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 10064,
+      "layout": "nx64"
+    },
+    {
+      "index": 158,
+      "name": "dummy.dat",
+      "size": 5,
+      "offset": 10715136,
+      "directory_offset": 10128,
+      "layout": "nx64"
+    },
+    {
+      "index": 159,
+      "name": "new_bg051.nltx",
+      "size": 316202,
+      "offset": 927961088,
+      "directory_offset": 10192,
+      "layout": "nx64"
+    },
+    {
+      "index": 160,
+      "name": "new_bg052.nltx",
+      "size": 314457,
+      "offset": 928277504,
+      "directory_offset": 10256,
+      "layout": "nx64"
+    },
+    {
+      "index": 161,
+      "name": "new_bg053.nltx",
+      "size": 315385,
+      "offset": 928592384,
+      "directory_offset": 10320,
+      "layout": "nx64"
+    },
+    {
+      "index": 162,
+      "name": "new_bg054.nltx",
+      "size": 315252,
+      "offset": 928907776,
+      "directory_offset": 10384,
+      "layout": "nx64"
+    },
+    {
+      "index": 163,
+      "name": "new_bg055.nltx",
+      "size": 315320,
+      "offset": 929223168,
+      "directory_offset": 10448,
+      "layout": "nx64"
+    },
+    {
+      "index": 164,
+      "name": "new_bg056.nltx",
+      "size": 315224,
+      "offset": 929538560,
+      "directory_offset": 10512,
+      "layout": "nx64"
+    },
+    {
+      "index": 165,
+      "name": "new_bg057.nltx",
+      "size": 315638,
+      "offset": 929853952,
+      "directory_offset": 10576,
+      "layout": "nx64"
+    },
+    {
+      "index": 166,
+      "name": "new_bg058.nltx",
+      "size": 314896,
+      "offset": 930169856,
+      "directory_offset": 10640,
+      "layout": "nx64"
+    },
+    {
+      "index": 167,
+      "name": "new_bg059.nltx",
+      "size": 316304,
+      "offset": 930485248,
+      "directory_offset": 10704,
+      "layout": "nx64"
+    },
+    {
+      "index": 168,
+      "name": "new_bg060.nltx",
+      "size": 315929,
+      "offset": 930801664,
+      "directory_offset": 10768,
+      "layout": "nx64"
+    },
+    {
+      "index": 169,
+      "name": "new_bg061.nltx",
+      "size": 316739,
+      "offset": 931118080,
+      "directory_offset": 10832,
+      "layout": "nx64"
+    },
+    {
+      "index": 170,
+      "name": "new_bg062.nltx",
+      "size": 316899,
+      "offset": 931435008,
+      "directory_offset": 10896,
+      "layout": "nx64"
+    },
+    {
+      "index": 171,
+      "name": "new_bg063.nltx",
+      "size": 316987,
+      "offset": 931751936,
+      "directory_offset": 10960,
+      "layout": "nx64"
+    },
+    {
+      "index": 172,
+      "name": "new_bg064.nltx",
+      "size": 316447,
+      "offset": 932069376,
+      "directory_offset": 11024,
+      "layout": "nx64"
+    },
+    {
+      "index": 173,
+      "name": "new_bg065.nltx",
+      "size": 318754,
+      "offset": 932386304,
+      "directory_offset": 11088,
+      "layout": "nx64"
+    },
+    {
+      "index": 174,
+      "name": "new_bg066.nltx",
+      "size": 318758,
+      "offset": 932705280,
+      "directory_offset": 11152,
+      "layout": "nx64"
+    },
+    {
+      "index": 175,
+      "name": "new_bg067.nltx",
+      "size": 318394,
+      "offset": 933024256,
+      "directory_offset": 11216,
+      "layout": "nx64"
+    },
+    {
+      "index": 176,
+      "name": "new_bg068.nltx",
+      "size": 319284,
+      "offset": 933342720,
+      "directory_offset": 11280,
+      "layout": "nx64"
+    },
+    {
+      "index": 177,
+      "name": "new_bg071.nltx",
+      "size": 112795,
+      "offset": 933662208,
+      "directory_offset": 11344,
+      "layout": "nx64"
+    },
+    {
+      "index": 178,
+      "name": "new_bg075.nltx",
+      "size": 409902,
+      "offset": 933775360,
+      "directory_offset": 11408,
+      "layout": "nx64"
+    },
+    {
+      "index": 179,
+      "name": "new_bg076.nltx",
+      "size": 416205,
+      "offset": 934185472,
+      "directory_offset": 11472,
+      "layout": "nx64"
+    },
+    {
+      "index": 180,
+      "name": "new_bg095.nltx",
+      "size": 322546,
+      "offset": 934601728,
+      "directory_offset": 11536,
+      "layout": "nx64"
+    },
+    {
+      "index": 181,
+      "name": "new_bg098.nltx",
+      "size": 455841,
+      "offset": 934924288,
+      "directory_offset": 11600,
+      "layout": "nx64"
+    },
+    {
+      "index": 182,
+      "name": "new_bg099.nltx",
+      "size": 416529,
+      "offset": 935380480,
+      "directory_offset": 11664,
+      "layout": "nx64"
+    },
+    {
+      "index": 183,
+      "name": "new_bg100.nltx",
+      "size": 516954,
+      "offset": 935797248,
+      "directory_offset": 11728,
+      "layout": "nx64"
+    },
+    {
+      "index": 184,
+      "name": "new_bg101.nltx",
+      "size": 489537,
+      "offset": 936314368,
+      "directory_offset": 11792,
+      "layout": "nx64"
+    },
+    {
+      "index": 185,
+      "name": "new_bg102.nltx",
+      "size": 475157,
+      "offset": 936804352,
+      "directory_offset": 11856,
+      "layout": "nx64"
+    },
+    {
+      "index": 186,
+      "name": "new_bg103.nltx",
+      "size": 518363,
+      "offset": 937280000,
+      "directory_offset": 11920,
+      "layout": "nx64"
+    },
+    {
+      "index": 187,
+      "name": "new_bg104.nltx",
+      "size": 494918,
+      "offset": 937798656,
+      "directory_offset": 11984,
+      "layout": "nx64"
+    },
+    {
+      "index": 188,
+      "name": "new_bg105.nltx",
+      "size": 477215,
+      "offset": 938293760,
+      "directory_offset": 12048,
+      "layout": "nx64"
+    },
+    {
+      "index": 189,
+      "name": "new_bg106.nltx",
+      "size": 478525,
+      "offset": 938771456,
+      "directory_offset": 12112,
+      "layout": "nx64"
+    },
+    {
+      "index": 190,
+      "name": "new_bg107.nltx",
+      "size": 485066,
+      "offset": 939250176,
+      "directory_offset": 12176,
+      "layout": "nx64"
+    },
+    {
+      "index": 191,
+      "name": "new_bg108.nltx",
+      "size": 584107,
+      "offset": 939735552,
+      "directory_offset": 12240,
+      "layout": "nx64"
+    },
+    {
+      "index": 192,
+      "name": "new_bg109.nltx",
+      "size": 431044,
+      "offset": 940319744,
+      "directory_offset": 12304,
+      "layout": "nx64"
+    },
+    {
+      "index": 193,
+      "name": "new_bg110.nltx",
+      "size": 519708,
+      "offset": 940750848,
+      "directory_offset": 12368,
+      "layout": "nx64"
+    },
+    {
+      "index": 194,
+      "name": "new_bg111.nltx",
+      "size": 526393,
+      "offset": 941271040,
+      "directory_offset": 12432,
+      "layout": "nx64"
+    },
+    {
+      "index": 195,
+      "name": "new_bg132.nltx",
+      "size": 483447,
+      "offset": 941797888,
+      "directory_offset": 12496,
+      "layout": "nx64"
+    },
+    {
+      "index": 196,
+      "name": "new_bg141.nltx",
+      "size": 450287,
+      "offset": 942281728,
+      "directory_offset": 12560,
+      "layout": "nx64"
+    },
+    {
+      "index": 197,
+      "name": "new_bg142.nltx",
+      "size": 527907,
+      "offset": 942732288,
+      "directory_offset": 12624,
+      "layout": "nx64"
+    },
+    {
+      "index": 198,
+      "name": "new_bg143.nltx",
+      "size": 522115,
+      "offset": 943260672,
+      "directory_offset": 12688,
+      "layout": "nx64"
+    },
+    {
+      "index": 199,
+      "name": "new_bg144.nltx",
+      "size": 535788,
+      "offset": 943782912,
+      "directory_offset": 12752,
+      "layout": "nx64"
+    },
+    {
+      "index": 200,
+      "name": "new_bg145.nltx",
+      "size": 538434,
+      "offset": 944318976,
+      "directory_offset": 12816,
+      "layout": "nx64"
+    },
+    {
+      "index": 201,
+      "name": "new_bg146.nltx",
+      "size": 524096,
+      "offset": 944857600,
+      "directory_offset": 12880,
+      "layout": "nx64"
+    },
+    {
+      "index": 202,
+      "name": "new_bg147.nltx",
+      "size": 512259,
+      "offset": 945381888,
+      "directory_offset": 12944,
+      "layout": "nx64"
+    },
+    {
+      "index": 203,
+      "name": "new_bg148.nltx",
+      "size": 511185,
+      "offset": 945894400,
+      "directory_offset": 13008,
+      "layout": "nx64"
+    },
+    {
+      "index": 204,
+      "name": "new_bg149.nltx",
+      "size": 513098,
+      "offset": 946405888,
+      "directory_offset": 13072,
+      "layout": "nx64"
+    },
+    {
+      "index": 205,
+      "name": "new_bg150.nltx",
+      "size": 477733,
+      "offset": 946919424,
+      "directory_offset": 13136,
+      "layout": "nx64"
+    },
+    {
+      "index": 206,
+      "name": "nsaveicon.tx2",
+      "size": 33812,
+      "offset": 926737920,
+      "directory_offset": 13200,
+      "layout": "nx64"
+    },
+    {
+      "index": 207,
+      "name": "save001.tx2",
+      "size": 65552,
+      "offset": 926772224,
+      "directory_offset": 13264,
+      "layout": "nx64"
+    },
+    {
+      "index": 208,
+      "name": "save002.tx2",
+      "size": 65552,
+      "offset": 926838272,
+      "directory_offset": 13328,
+      "layout": "nx64"
+    },
+    {
+      "index": 209,
+      "name": "save003.tx2",
+      "size": 65552,
+      "offset": 926904320,
+      "directory_offset": 13392,
+      "layout": "nx64"
+    },
+    {
+      "index": 210,
+      "name": "save004.tx2",
+      "size": 65552,
+      "offset": 926970368,
+      "directory_offset": 13456,
+      "layout": "nx64"
+    },
+    {
+      "index": 211,
+      "name": "save005.tx2",
+      "size": 65552,
+      "offset": 927036416,
+      "directory_offset": 13520,
+      "layout": "nx64"
+    },
+    {
+      "index": 212,
+      "name": "save006.tx2",
+      "size": 65552,
+      "offset": 927102464,
+      "directory_offset": 13584,
+      "layout": "nx64"
+    },
+    {
+      "index": 213,
+      "name": "save007.tx2",
+      "size": 65552,
+      "offset": 927168512,
+      "directory_offset": 13648,
+      "layout": "nx64"
+    },
+    {
+      "index": 214,
+      "name": "save008.tx2",
+      "size": 65552,
+      "offset": 927234560,
+      "directory_offset": 13712,
+      "layout": "nx64"
+    },
+    {
+      "index": 215,
+      "name": "save009.tx2",
+      "size": 65552,
+      "offset": 927300608,
+      "directory_offset": 13776,
+      "layout": "nx64"
+    },
+    {
+      "index": 216,
+      "name": "save010.tx2",
+      "size": 65552,
+      "offset": 927366656,
+      "directory_offset": 13840,
+      "layout": "nx64"
+    },
+    {
+      "index": 217,
+      "name": "save011.tx2",
+      "size": 65552,
+      "offset": 927432704,
+      "directory_offset": 13904,
+      "layout": "nx64"
+    },
+    {
+      "index": 218,
+      "name": "save012.tx2",
+      "size": 65552,
+      "offset": 927498752,
+      "directory_offset": 13968,
+      "layout": "nx64"
+    },
+    {
+      "index": 219,
+      "name": "save013.tx2",
+      "size": 65552,
+      "offset": 927564800,
+      "directory_offset": 14032,
+      "layout": "nx64"
+    },
+    {
+      "index": 220,
+      "name": "save014.tx2",
+      "size": 65552,
+      "offset": 927630848,
+      "directory_offset": 14096,
+      "layout": "nx64"
+    },
+    {
+      "index": 221,
+      "name": "save015.tx2",
+      "size": 65552,
+      "offset": 927696896,
+      "directory_offset": 14160,
+      "layout": "nx64"
+    },
+    {
+      "index": 222,
+      "name": "save016.tx2",
+      "size": 65552,
+      "offset": 927762944,
+      "directory_offset": 14224,
+      "layout": "nx64"
+    },
+    {
+      "index": 223,
+      "name": "save017.tx2",
+      "size": 65552,
+      "offset": 927828992,
+      "directory_offset": 14288,
+      "layout": "nx64"
+    },
+    {
+      "index": 224,
+      "name": "save018.tx2",
+      "size": 65552,
+      "offset": 927895040,
+      "directory_offset": 14352,
+      "layout": "nx64"
+    },
+    {
+      "index": 225,
+      "name": "start.dat",
+      "size": 916021968,
+      "offset": 10715648,
+      "directory_offset": 14416,
+      "layout": "nx64"
+    },
+    {
+      "index": 226,
+      "name": "sys1.tx2",
+      "size": 32848,
+      "offset": 14848,
+      "directory_offset": 14480,
+      "layout": "nx64"
+    },
+    {
+      "index": 227,
+      "name": "zz_anmdat.fad",
+      "size": 254308432,
+      "offset": 947430400,
+      "directory_offset": 14544,
+      "layout": "nx64"
+    },
+    {
+      "index": 228,
+      "name": "zz_new_bg002.nltx",
+      "size": 32763,
+      "offset": 947397632,
+      "directory_offset": 14608,
+      "layout": "nx64"
+    }
+  ]
+}
